@@ -1,5 +1,7 @@
 # SciCat Project Governance
 
+_IMPORTANT: these governance document are still a work-in-progress_
+
 The purpose of this repository is to formalize the governance process that the
 SciCat project follows and partially has been using informally for few years. 
 This document clarifies how decisions are made and how the various elements of our community
