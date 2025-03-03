@@ -4,7 +4,7 @@ This document lists the members of the Organization's Project Leaders or PL. Eac
 
 | **POSITION** | **NAME** | **GitHub Handle** | **Affiliated Organization** |
 | --- | --- | --- | --- |
-| Project Leader | Massimiliano (<Max) Novelli | nitrosx | ESS |
+| Project Leader | Massimiliano (Max) Novelli | nitrosx | ESS |
 | Deputy Project Leader | | | | 
 | Deputy Project Leader | | | | 
 | --- | --- | --- | --- |
