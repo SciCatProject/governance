@@ -1,18 +1,44 @@
 # Charter for the SciCat Organization
 
-This is the organizational charter for the SciCat Organization (the "Organization"). 
-By adding their name to the PROJECT_LEADERS.md file, the MAIN-TECHNICAL-COMMITTEE.md file, or the SCICAT_CORE_CONTRIBUTORS.md, 
-project contributors agree to the following organizational chart.
+This is the organizational charter for the SciCat Project (the "Project"). 
+Project contributors and adopting organization agree to the following organizational chart.
 
-## 1. Project Leaders
-The project leaders is a group of three people with a higher commitment to the project.
-The composition of the group and its purpose is highlighted next
+The following section intruduces the official groups present in the organization. Each group mentioned below is described in details in the dedicated file.
+
+## 1. Users groups
+Any person who uses, interact and/or works with SciCat.  
+Anybody can be part of the users group.
+
+### 1.1 Responsibilities
+The users group does not have any assigned responsibilities, although its members' feedback and opinion will help to guide the project direction and effort allocation.
+Users are encouraged to organize a local meet-up in their home institution or area, to improve SciCat user experience, dissseminate knowledge and collect and distil feedback on usability and future features. Such feedback should be provide through the official channels, as slack posts, github issues and emails to the people of interests.
+Users are welcome to participate to the contributors meeting, although are encouraged to not deraille the agenta.
+
+## 2. Contributors group
+Any person who actively contribute to the project in the form of code PR, documentation, dissemnination or sustainability efforts.
+Everybody is welcome to the contributors groups, although it is suggested a certain level of proficiency with the technology stack, management or financing in order to maximize output with minimal effort.  
+
+## 3. Technical Leaders
+Any person who is leading a sub-project, a specific feature development or any specific effort within the project.
+Tehcnical leaders are individual who can drive the effort they have been tasked with, they work independently, to be able to find resources and be confortable to ask for help if needed.
+Any member of the contributors community can become a technical leader.
+It has be clear that been a technical leader entails more responsibilities and requires more commitment and a higher level of effort.
+
+## 4. Project leaders
+Selected contributors elected by the project contributors tasked with leading the project.
+
+## 5. Steering committee
+Representatives of the adopting facilities tasked with providing guidance to the project leaders, promoting the project and help maintaining the project sustainable
+
+## 6. Advisory groups or consultants
+Temporary group of domain experts called to provide expert feedback on specific issues.
 
 ### 1.1 Composition
-The __Project Leaders__ group (__PL__) is composed by:
-- one Project Leader
-- two Deputy Project Leaders
-The PL should always have 3 members. If one or more members cannot perform their duties and the position is vacant, the TSC and PAB chairs should step up or indicate one or more members that can become the acting PL.
+The __Project Leaders__ group (__PL__ group) is composed by:
+- one Project Leader  
+- two Deputy Project Leaders  
+
+The PL should always have 3 members. If one or more members cannot perform their duties, they should resign. If a PL position is vacant, the TSC and PAB chairs should step up or indicate one or more members that can become the acting PL members.
 
 ### 1.3 Duties and Responsibilities
 The PL duties and responsabilities are:
@@ -37,6 +63,7 @@ PL have a three year mandate. At the end of the three years mandate, the outgoin
 
 ### 1.6 Resignation
 A PL can resign from its position by submitting a written resignation to the other PL and the TSC. She/he should als inform the member of the PAB.
+
 
 ## 2. Technical Steering Committee 
 
