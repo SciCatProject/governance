@@ -18,6 +18,9 @@ This effort is also important to communicate the commitment of the community to 
 ## Purpose
 The governance documents aim to formalize the SciCat project (following referred as the Project) as an international, multi-facility, community-driven project.
 
+## Adoption
+Project contributors, adopting facilities and commercial partners agree to adhere to the definition, procedure and responsabilities described in the content of these documents
+
 ## Governance Entities Mission
 The Governance Entities of the Project are set in place to promote a positive development culture through caring for the entire community, strategic management, outreach, commitment to quality, effort on sustainability.
 
@@ -37,33 +40,18 @@ The Governance Entities of the Project are set in place to promote a positive de
   - [Steering Committee](governing-entities/STEERING-COMMITTEE.md)
   - [Advisory Boards](governing-entities/ADVISORY-BOARDS.md)
 - Project Components
-  - [SciCat Project]()
-  - [SciCat Core]()
-  - [Supported Projects]()
-  - [Project Channels]()
+  - [SciCat Project](project-components/SCICAT-PROJECT.md)
+  - [SciCat Core](project-components/SCICAT-CORE.md)
+  - [Supported Projects](project-components/SUPPORTED-PROJECTS.md)
+  - [Project Channels](project-components/PROJECT-CHANNELS.md)
 - Procedures
-  - [Voting]()
-  - [Nomination]()
-  - [Member Dismissal]()
-  - [Supported Project Request]()
-  - [Repo Archival]()
-  - [Project Decision]()
-- [Code of conduct]()
-
-## Summary
-Here is a short summary of the main actors and concepts used in the SciCat project.
-_For more details, please see [CHARTER.md](./CHARTER.md)._
-
-* __SciCat Core__ or __Core Components__.  
-  SciCat core (Components) are the most essential services of SciCat and are identified in the __backend__ and __frontend__. They have separate repositories but are managed as a single entity.
-
-* __Supported Projects__
-  Additional projects (or components) providing essential services can be adopted by the SciCat community, become officially part of the SciCat project and be officially supported by the community. 
-  Each supported project/component is granted its own repository under the SciCat project umbrella.
-  Supported project may be orphaned, hence they do not have active Project Contributors. In such case, it is the job of the SciCat Steering Committee and Project Leaders to advocate for new Project Contributors or decide the fate of the Supported Project.  
-
-* __Project Contributors__
-  Each official project should have a written list of Project Contributors which are community members that manage and contribute the specific supported project. Each project has the ability to define the processes and workflow that works best for the supported project (e.g. how to review code, best practices, decision process and so forth). If no indication is provided by the project, the project will follow the same rules as applied to the SciCat core, listed below.
+  - [Voting](procedures/VOTING.md)
+  - [Nomination](procedures/NOMINATION.md)
+  - [Member Early Dismissal](procedures/MEMBER_DISMISSAL.md)
+  - [Supported Project Request](procedures/SUPPORTED_PROJECT_REQUEST.md)
+  - [Repo Archival](procedures/REPO_ARCHIVAL.md)
+  - [Project Decision](process/PROJECT_DECISION.md)
+- [Code of conduct](CODE-OF-CONDUCT.md)
 
 
 ## Status

@@ -38,7 +38,7 @@ The nomination for a PL position should follow the process described in the [Nom
 
 ## Election
 For each open position as PL, any member of the Contributors Community can be nominated as candidate.  
-No matter th enumber of candidates for each position, a vote by the Contributors Voting Body is required. 
+No matter the number of candidates for each position, a vote by the Contributors Voting Body is required. 
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
 
 ## Posting Duration
