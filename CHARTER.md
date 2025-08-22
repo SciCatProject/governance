@@ -1,75 +1,94 @@
 # Charter for the SciCat Organization
 
-This is the organizational charter for the SciCat Organization (the "Organization"). 
-By adding their name to the PROJECT_LEADERS.md file, the MAIN-TECHNICAL-COMMITTEE.md file, or the SCICAT_CORE_CONTRIBUTORS.md, 
-project contributors agree to the following organizational chart.
+This is the organizational charter for the SciCat Project (the "Project"). 
+Project contributors and adopting organization agree to the following organizational chart.
 
-## 1. Project Leaders
-The project leaders is a group of three people with a higher commitment to the project.
-The composition of the group and its purpose is highlighted next
+## 1 Governing Bodies
+The following section intruduces the official groups present in the organization. 
+Each section of his document describes in details composition, purposes, duties and membership for each group.
 
-### 1.1 Composition
-The __Project Leaders__ group (__PL__) is composed by:
-- one Project Leader
-- two Deputy Project Leaders
-The PL should always have 3 members. If one or more members cannot perform their duties and the position is vacant, the TSC and PAB chairs should step up or indicate one or more members that can become the acting PL.
+## 1. Users community
+Any person who uses, interact, and/or works with SciCat.  
+Anybody can be part of the users group.
 
-### 1.3 Duties and Responsibilities
+### 1.1 Responsibilities
+The users group does not have any assigned responsibilities nor duties, although its members' feedback and opinions will be instrumental in guiding the project vision and effort allocation.
+Users are encouraged to organize a local meet-up in their home institution, area, or science domain. The objective is to improve SciCat user experience, dissseminate relevant knowledge, collect and distil feedback on usability and future features. Such feedback should be provide through the official channels: as slack posts, github issues, emails to the people of interests, or direct contact with any of the contributors.
+Users are welcome to participate to the contributors meeting, although are highly encouraged to respect the meeting agenda.
+
+## 2. Contributors community
+Any person who actively contribute to the Project, or any of its components. Contributions can be in the form of code PR, documentation, dissemination or sustainability efforts.
+Everybody is welcome to the contributors groups, although it is suggested a certain level of proficiency with the code base, the technology stack, project management or sustainability in order to maximize productivity within the contributed effort.
+
+### 2.1 Responsibilities
+Contributors have the responsibility to contribute to the project within the means of their expertise. Their contribution should follow the code of conduct and the processes establish in these governance documents.
+They are also encouraged to participate to the Contributors Meeting, provide their feedback and vote in major project decisions.
+The contributors group operate by majority (majority of the vote of the contributors present at the time of the voting). If majority cannot be reached and/or conflicts arise, the decision or the conflict must be raised to the attention of the Project Leaders, which will decide the best course of action. 
+Contributors can nominate a contributor for the position of Project Leader or raise a motion to dismiss a curent Project Leader. The nomination or motion will be voted in a follow-up meeting and majority is required to become effective.
+Current Project Leaders cannot be part of the voting body of the Contributors.
+
+## 3. Technical Leaders
+Any contributor who is leading a sub-project, being a specific feature development, a supported project or any specific effort within the Project.
+
+### 3.1 Responsibilities
+Technical leaders are individual who can drive the effort they have been tasked with, they work independently, be able to find resources and be confortable to ask for help if needed.
+Any member of the contributors community can become a technical leader.
+It should be clear that been a technical leader entails more responsibilities, requires more commitment and a higher level of effort.
+They should be able to report clearly and efectively the status of their sub-project to any interested party and stakeholder.
+
+## 4. Project leaders
+Selected contributors, named Project Leader (PL for short), elected by the contributors community tasked with leading the Project.
+
+### 4.1 Composition
+The Project Leaders group is composed by 3 or 5 elected members with a mix of expertise that should span the technical, the management, and the public relation domains. Each member can bring experience in one or more of such area, as long as a whole the group covers all three of them.
+
+### 4.2 Duties and Responsibilities
 The PL duties and responsabilities are:
   - be the public face of the project
   - promote the project,
   - maintain relationships with: 
-    - collaborators,
+    - collaborators community,
     - adopting facilities and their management
-    - the user base
+    - the user community
   - provide project guidance
   - moderate in case of disputes or conflicts
   - facilitate conflicts resolution
   - actively seek resources to advance the project and secure development effort.
+  - report to the steering committee and act upon their recommendations.
 
 The leaders do agree to put as much effort as required in performing the responsabilities highglighted.
 
-### 1.4 Election
-PL is a volunteer position. If only one candidate is volunteering, automatically she/he will be selected. In case of multiple candidates for a single position, a vote should be called involving the current PL, the TSC and PAB.
+### 4.3 Election
+For each open position as PL, any member of the contributors community can be nominated as candidate. If only one candidate has been nominated, she/he will be automatically elected with no vote required. In case of multiple candidates for a single PL position, the contributors commmunity should be called to vote. Other PLs and the TSC are requested to participate in the vote.
 
-### 1.5 Duration
-PL have a three year mandate. At the end of the three years mandate, the outgoing PL can decide to renew his/her condidacies for following three years.
+### 4.4 Duration
+PL have a three year plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew his/her condidacies for following three years and participate in the next round of elections.
 
-### 1.6 Resignation
-A PL can resign from its position by submitting a written resignation to the other PL and the TSC. She/he should als inform the member of the PAB.
+### 4.5 Resignation
+At any time, an elected PL can resign from his/her position by submitting a written resignation to the other PLs and the PSC. As a courtesy, she/he should also inform the community.
 
-## 2. Technical Steering Committee 
+### 4.6 Early release
+At any time, a PL can be asked to resign following a motion submitted by a number of members of the collabortors community supported by a majority vote from the same community and a support from the PSC.
 
-### 2.1 Purpose. 
-The __Technical Steering Committee__ (__TSC__) will be responsible for the complete technical oversight, 
-of the project, evaluation of new features requests, resources allocation, new technologies adoptions 
-for the Organization, the core components of the project or, if needed, for any associated project. 
-Members of the TSC will be granted the "Owner" role in the SciCat GitHub organization.
+## 5. Project Steering committee
+This committee includes representatives of the adopting facilities which are not member of the contributors community. 
 
-### 2.2 Composition
-The TSC voting members are listed in the TECHNICAL-STEERING-COMMITTEE.md file in this repository.
-Voting members may be added or removed by no less than 2/3 affirmative vote of the TSC.  
-Members of the TSC should have significant experience making contributions to Organization projects and should be active contributors to any of the components of the project. 
-Members should not be added based on only _general_ technical experience or the backing of a participating institution. 
-The TSC will appoint a Chair responsible for organizing TSC activities, including communication with the other entities of the project, and dissemination of decisions and other relevant information.
+### 5.1 Responsibilities
+They are tasked with:
+- providing guidance and feedback to the Project Leaders, 
+- promoting the project within and outside their home facilties and science community
+- help sustaining the project
+- making sure that their facility allocates resources to sustain the project
+
+### 5.2 Eligibility
+A person can become a member of the PSC only if their home facility allocates at least a half FT to the Project. For each increasing half FT, a facility has the option to be represented by an additional person on the PSC.
+
+## 6. Advisory groups
+Temporary group of domain experts called to provide expert feedback on specific issues. Advisors should be individuals with the proper knowledge and external to the project
 
 
-## 3. Project Advisory Board  
-The __Project Advisory Board__ is also referred as __PAB__.
 
-### 3.1 Purpose
-The PAB will be responsible of the supporting the PL and TSC by stering the project mission and vision for the medium and long term.
-The members should not be involved with decisions related to technologies and technical details.
-They should promote project by direct resources allocation from their own facilities or, 
-indirectly, through grant application or promoting project adoption. 
 
-### 3.2 Composition
-The PAB voting members are listed in the PROJECT-ADVISORY-BOARD.md file in this repository.  
-Voting members may be added or removed by no less than 3/4 affirmative vote of the PAB.  
-The composition of the Project Advisory Board should roughly reflect the resource committed by adopting and supporting institutions of the SciCat project.
-Its members should be different than the ones in the TSC and should be selected from the facilities management.
-The Project Advisory Board will appoint a Chair responsible for organizing PAB activity, including scheduling meetings, communicating with othe rproject entities and 
-dissemination of decisions and otehr information.
 
 ## 4. meetings
 

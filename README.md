@@ -2,56 +2,57 @@
 
 _IMPORTANT: these governance document are still a work-in-progress_
 
-The purpose of this repository is to formalize the governance process that the
-SciCat project follows and partially has been using informally for few years. 
-This document clarifies how decisions are made and how the various elements of our community
-interact. 
-It is based and dericed from [Bluesky governance](https://), which has been adapted from
+## Introduction
+
+The purpose of this repository is to formalize the governance process that the SciCat project follows and has been using informally for the past few years. 
+These documents clarify who has which responsibility, how decisions are made and how the various elements of our community interact. 
+It is based from [Bluesky governance](https://), which has been adapted from
 [GitHub's Minimum Viable Governance](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/).
 
 ## Why?
 
-Data cataloging, curation and sharing are becoming a critical step of many facilities data lifecycle.
-The SciCat project want to communicate clearly how the project and its development is managed, 
-and how the priorities are set and. We want to formalize and document the path future
-Contributors and adopters can follow to become more active and influential in the project.
+Data cataloging, curation and sharing are becoming a critical step in many facilities data lifecycle.
+The SciCat project and its community aims to communicate clearly how the project is managed, how the priorities are set and effort is allocated. We would like to formalize and document the processes contributors and adopters can follow to become active members of the community and easily contribute to the project.
+This effort is also important to communicate the commitment of the community to the Project and render SciCat a viable and well thought option in the landscape of data catalogues.
 
-This document means to formalize that SciCat is an international, multi-facility,
-community-driven project.
+## Purpose
+The governance documents aim to formalize the SciCat project (following referred as the Project) as an international, multi-facility, community-driven project.
 
-## Summary
+## Adoption
+Project contributors, adopting facilities and commercial partners agree to adhere to the definition, procedure and responsabilities described in the content of these documents
 
-_For details, start with [CHARTER.md](./CHARTER.md)._
+## Governance Entities Mission
+The Governance Entities of the Project are set in place to promote a positive development culture through caring for the entire community, strategic management, outreach, commitment to quality, effort on sustainability.
 
-* __SciCat Core__.  
-  The core services of SciCat are the backend and frontend. They are managed as a single entity.
-  Core Contributors are contributors and maintainers that actively contribute to one or both services.
-  Core Contributors are listed in the matching repositories and also in the governance documents under SciCat Core Contributors.
-* __Supported Projects__
-  Additional projects providing essential services can be adopted by the SciCat community and officially supported. 
-  Each supported project has its own repository under the SciCat project umbrella and should have a written list of Project Contributors which are Contributors and Maintainers who manage contributions to the project repository. 
-  The Maintainers have lattitude to define the process that works best for supported project (e.g. how much code review).
-  The Maintainers operate by
-  [consensus](https://tools.ietf.org/id/draft-resnick-on-consensus-01.html).
-  If they are unable to reach consensus, they must escalate to the SciCat Main Technical Committee. They _don't_ resolve conflicts by vote.
-  Supported project may be orphaned, hence they do not have Project Contributors. In such case, it is the job of the SciCat Main Technical Committee to advocate for new Project Contributors or decide the fate of the Supported Project.
-* __SciCat Main Technical Committee__
-  This committee is composed of experienced Contributors with specific technical knowledge about SciCat. 
-  It should have an odd number of members.
-  It attempts to resolve questions by consensus, but if consensus fails they can vote.
-  Members of the SciCat Main Technical Committee can also belong to the SciCat Core Contributors group.
-* __Project Leaders__
-  The Project Leaders is composed by three experienced Contributors. It has the _Project Leader_ and two _Deputy Leaders_. 
-  Their responsability are:
-  - to promote the project,
-  - maintain relationships with collaborators
-  - provide guidance
-  - step-in in case of disputes
-  - maintain relationship with adopting facilities and their management
-  This roles are time limited. When one of the three positions is up for reneweal, elections will be held between the members of SciCat Core and SciCat Main Technical Committee.
-* __Users Groups__
-  Everybody is welcome and invited to join a users group and provide valuable feedback on SciCat project.
-  The feedback from such meetings will be distilled and passed to the SciCat Main Technical Comnmittee for evaluation to steer the project to address users needs and efficiently allocate available effort.
+## Governance Keywords
+- Community
+- Strategy
+- Outreach
+- Quality
+- Sustainability
+
+## Governance Components
+- Governing Entities
+  - [User Community](governing-entities/USER-COMMUNITY.md)
+  - [Contributors Community](governing-entities/CONTRIBUTORS-COMMUNITY.md)
+  - [Technical Leaders](governing-entities/TECHNICAL-LEADERS.md)
+  - [Project Leaders](governing-entities/PROJECT-LEADERS.md)
+  - [Steering Committee](governing-entities/STEERING-COMMITTEE.md)
+  - [Advisory Boards](governing-entities/ADVISORY-BOARDS.md)
+- Project Components
+  - [SciCat Project](project-components/SCICAT-PROJECT.md)
+  - [SciCat Core](project-components/SCICAT-CORE.md)
+  - [Supported Projects](project-components/SUPPORTED-PROJECTS.md)
+  - [Project Channels](project-components/PROJECT-CHANNELS.md)
+- Procedures
+  - [Voting](procedures/VOTING.md)
+  - [Nomination](procedures/NOMINATION.md)
+  - [Member Early Dismissal](procedures/MEMBER_DISMISSAL.md)
+  - [Supported Project Request](procedures/SUPPORTED_PROJECT_REQUEST.md)
+  - [Repo Archival](procedures/REPO_ARCHIVAL.md)
+  - [Project Decision](process/PROJECT_DECISION.md)
+- [Code of conduct](CODE-OF-CONDUCT.md)
+
 
 ## Status
 
@@ -64,5 +65,7 @@ We are in Step 1 of the following process:
 2. Collect feedback and contributions from Collaborators and the Community
    Please use GitHub Issues on this repository to provide feedback.
 3. Content revision based on feedback.
-4. Announce initial memberships for each group and committee and maintainers for each repo, if possible.
+4. Announce initial memberships for each group and committee and maintainers for each repo, if possible.  
+
+Even if we are in step 1, we already working to find Project Leaders, and forming the Main Technical Committee.
 
