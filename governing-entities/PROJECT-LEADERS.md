@@ -34,7 +34,7 @@ PL do agree to put as much effort as required in performing the responsabilities
 
 ## Eligibility
 Any Project Contributor is eligible to be nominated to become a Project Leader, proven that he/she has a solid knowledge of the Project. He/she might be asked to sustain an interview with any of the Project governing entities. The interviews will be decided by the current PLs on per-nomination case.
-The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION/md) section.
+The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
 ## Election
 For each open position as PL, any member of the Contributors Community can be nominated as candidate.  
@@ -49,4 +49,4 @@ At any time, an elected PL can resign from his/her position by submitting a writ
 
 ## Early release
 At any time, a PL can be asked to resign from his role.  
-The process should follow the steps described in the [Member Dismissal](../procedure/MEMBER-DISMISSAL.md) section.
+The process should follow the steps described in the [Member Dismissal](../procedures/MEMBER_DISMISSAL.md) section.
