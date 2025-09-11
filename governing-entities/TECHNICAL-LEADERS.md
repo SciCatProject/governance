@@ -27,7 +27,7 @@ For supported project leaders, the related repository should contain a file name
 An official Technical Leader can resign at any point from his leadership position by informing the Project Leaders and posting an official communicartion through the official Project channels.
 
 ## Early Dismissal
-A Technical Leader might be asked to leave his/hers leadership position following conflicts or leadership related issues. This event must follow the process described in the [Member Dismissal](../procedures/MEMBER-DISMISSAL.md) section
+A Technical Leader might be asked to leave his/hers leadership position following conflicts or leadership related issues. This event must follow the process described in the [Member Dismissal](../procedures/MEMBER_DISMISSAL.md) section.
 
 ## Effort
 It should be clear that been a technical leader entails more responsibilities, requires more commitment and a higher level of effort.
