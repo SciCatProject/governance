@@ -18,7 +18,7 @@ Contributors Community has to type of members:
   Any contributors that has contributed to the project in the past but not in the last year
 
 ## Responsibilities
-Contributors volunteer their time to the Prject and have the following responsibilities:
+Contributors volunteer their time to the Project and have the following responsibilities:
 - to contribute to the project within the means of their expertise. 
 - follow the code of conduct and the processes establish in these governance documents to submit their contribution.
 - nominate a contributor for a position of Project or Technical Leader.
