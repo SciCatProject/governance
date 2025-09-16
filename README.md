@@ -50,7 +50,7 @@ The Governance Entities of the Project are set in place to promote a positive de
   - [Member Early Dismissal](procedures/MEMBER_DISMISSAL.md)
   - [Supported Project Request](procedures/SUPPORTED_PROJECT_REQUEST.md)
   - [Repo Archival](procedures/REPO_ARCHIVAL.md)
-  - [Project Decision](process/PROJECT_DECISION.md)
+  - [Project Decision](procedures/PROJECT_DECISION.md)
 - [Code of conduct](CODE-OF-CONDUCT.md)
 
 
