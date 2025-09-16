@@ -5,7 +5,7 @@ The Voting Body is the group of people that are eligible to participate in the v
 It must be decided prior to the vote happening and should be well documented in the vote minutes. 
 
 ## Decision Making
-In case of election for a seat in the Project Leaders, or Technical Leaders and Steering Committe when applicable, or in every situation when voatin is required or applicable and requested, a decision will be reached by majority of the voting body, although the Project strive reach a consensus. 
+In case of election for a seat in the Project Leaders, or Technical Leaders and Steering Committe when applicable, or in every situation when voting is required or applicable and requested, a decision will be reached by majority of the voting body, although the Project strive reach a consensus. 
 While explicit agreement of the entire Voting Body is preferred, 
 it is not required. Rather, the Voting Body, together with the Project Leaders will determine the selected outcome based on their good faith consideration of a number of factors, including the dominant view of the Governing Entities and nature of support and objections. 
 If a decision cannot be reached, the Technical Leaders, with the support of the Steering Committee, will make the decision.
