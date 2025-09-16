@@ -9,7 +9,9 @@ By cascading project or effort is intended a specific feature development, a sup
 
 ## Responsibilities
 Technical leaders responsibilities are:
-- driving the effort they have been tasked with, 
+- lead development within their tasked area,
+- provide strategic feedback to project leaders about their tasked area,
+- driving the effort they have been tasked with,
 - work independently, 
 - be able to find adequate resources
 - be confortable to ask for help if needed
