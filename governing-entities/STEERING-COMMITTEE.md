@@ -25,7 +25,7 @@ Aside of the single annual meeting, additional meetings might be organized based
 ## Eligibility
 A person is eligible to become a member of the SC if and only if their home facility is able to allocate at least a half FT, or an equivalent effort, to sustain the Project.  
 
-## Rapresentation
+## Representation
 Each facility is granted a number of votes equivalent to the number of half FTs that is able to dedicate to the Project.
 The number of votes are distributed among the members representing the facility. The maximum number of facility members is equal to the number of half FTs allocated by the facility.
 
