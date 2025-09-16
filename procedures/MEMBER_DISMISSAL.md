@@ -1,6 +1,6 @@
 # Member Early Dismissal
 
-At any time, a group of at least thre project members can present the request for an member dismissal in case such member has been disruptive to the project, disrespectful to the project menmbers or is in clear violation of hte code of conduct.
+At any time, a group of at least three project members can present the request for an member dismissal in case such member has been disruptive to the project, disrespectful to the project members or is in clear violation of the code of conduct.
 
 The request should be submitted to the Project Leaders, which will trigger the early dismissal protocol. If no action is take by the Project Leaders, the request should be submitted to the Steering Committee.
 
