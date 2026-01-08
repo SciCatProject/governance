@@ -16,7 +16,7 @@ Once or twice a year a townhall meeting dedicated to the user community will be 
 The objectives are to facilitate the communication between the leadership and the users community, specifically important topics are:
 - improve SciCat as a whole, 
 - improve user experience, 
-- dissseminate relevant knowledge, 
+- disseminate relevant knowledge, 
 - collect and distil feedback on usability and future features. 
 Dates and location of the user meeting will advertise through the Project channels
 
