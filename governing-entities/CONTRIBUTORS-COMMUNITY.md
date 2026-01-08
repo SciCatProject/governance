@@ -12,9 +12,9 @@ Contributions can be in the form of code PR, documentation, dissemination, manag
 ## Membership
 Everybody is welcome to the contributors community, although it is suggested a certain level of proficiency with the tools, the code base, the technology stack, project management or sustainability experience in order to maximize productivity of the contributed effort with the time constrains in place.  
 Contributors Community has two type of members:
-- active contributors:  
+- _active contributors_  
   Any contributors that has contributed to the project in the previous year (6 months?)
-- honorary contributors
+- _honorary contributors_
   Any contributors that has contributed to the project in the past but not in the last year
 
 ## Responsibilities
