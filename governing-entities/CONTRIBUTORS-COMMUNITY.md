@@ -14,7 +14,7 @@ Everybody is welcome to the contributors community, although it is suggested a c
 Contributors Community has two type of members:
 - _active contributors_  
   Any contributors that has contributed to the project in the previous year (6 months?)
-- _honorary contributors_
+- _honorary contributors_  
   Any contributors that has contributed to the project in the past but not in the last year
 
 ## Responsibilities
