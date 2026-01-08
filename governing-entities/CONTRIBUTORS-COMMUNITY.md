@@ -10,8 +10,8 @@ The Contributors Community (CC) includes any person who is actively contributing
 Contributions can be in the form of code PR, documentation, dissemination, management, technical leadership or sustainability efforts.
 
 ## Membership
-Everybody is welcome to the contributors community, although it is suggested a certain level of proficiency with the tools, the code base, the technology stack, project management or sustainability experience in order to maximize productivity of the contributed effort with the time constrains in place.
-Contributors Community has to type of members:
+Everybody is welcome to the contributors community, although it is suggested a certain level of proficiency with the tools, the code base, the technology stack, project management or sustainability experience in order to maximize productivity of the contributed effort with the time constrains in place.  
+Contributors Community has two type of members:
 - active contributors:  
   Any contributors that has contributed to the project in the previous year (6 months?)
 - honorary contributors
