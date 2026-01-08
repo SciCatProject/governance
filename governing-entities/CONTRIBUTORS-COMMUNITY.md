@@ -1,9 +1,9 @@
 # Contributors community
 
 ## Abbreviation
-CC = Contributors Community
-AC = Active Contributors
-HC = Honorary Contributors
+CC = Contributors Community  
+AC = Active Contributors  
+HC = Honorary Contributors  
 
 ## Description
 The Contributors Community (CC) includes any person who is actively contributing to the Project, being the Core Components or any of its other components.  
