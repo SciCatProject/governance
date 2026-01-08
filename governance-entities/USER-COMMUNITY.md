@@ -2,7 +2,7 @@
 
 ## Description
 We consider a user any person who uses, interact, and/or works with SciCat.  
-The user community is the entity encompassing all the users.
+The _user community_ is the entity encompassing all the users.
 
 ## Membership
 There are no barriers to become member of the users group and actively participate to users group meetings.

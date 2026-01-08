@@ -1,7 +1,7 @@
-# Project leaders
+# Project Leaders
 
 ## Abbreviations
-PL = Project Leaders
+PL = Project Leader(s)
 
 ## Description
 The Project Leaders (PL) are elected Project Contributors tasked with leading the Project.
@@ -9,10 +9,10 @@ The Project Leaders (PL) are elected Project Contributors tasked with leading th
 ## Group Structure
 The Project Leaders group is composed by 3 or 5 elected members.
 The group should encompass a set of skill covering the following domains: technical, management, and public relation. 
-Each member can bring experience in one or more of such area, as long as a whole the group covers provides a balanced and productive mixed of all of them.
+Each member can bring experience in one or more of such area, as long as a whole the group provides a balanced and productive mixed of the required skills to run the project.
 
 ## Duties and Responsibilities
-The PL duties and responsabilities are:
+The PL's duties and responsabilities are:
   - be the public face of the project
   - promote the project,
   - maintain relationships with: 
@@ -33,7 +33,7 @@ The PL duties and responsabilities are:
 PL do agree to put as much effort as required in performing the responsabilities highglighted.
 
 ## Eligibility
-Any Project Contributor is eligible to be nominated to become a Project Leader, proven that he/she has a solid knowledge of the Project. He/she might be asked to sustain an interview with any of the Project governing entities. The interviews will be decided by the current PLs on per-nomination case.
+Any Project Contributor is eligible to be nominated to become a Project Leader, proven that he/she has a solid knowledge of the Project, and granted that he/she is associated to a supporting facility. He/she might be asked to sustain an interview with any of the Project governing entities. The interviews will be decided by the current PLs on per-nomination case.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
 ## Election
@@ -42,11 +42,13 @@ No matter the number of candidates for each position, a vote by the Contributors
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
 
 ## Posting Duration
-PL will maintain their role for a three plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew his/her condidacies for the following three years and participate in the next round of elections.
+PL will maintain their role for a three plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew his/her condidacies for the following three years and participate in the next round of election.
 
 ## Resignation
 At any time, an elected PL can resign from his/her position by submitting a written resignation to the other PLs and communicating his/hers decision through the official Project channels.
 
-## Early release
-At any time, a PL can be asked to resign from his role.  
-The process should follow the steps described in the [Member Dismissal](../procedures/MEMBER_DISMISSAL.md) section.
+## Early dismissal
+At any time, a PL can be asked to resign from the PL role following conflicts or leadership related issues. This event must follow the process described in the [Member Dismissal](../procedures/MEMBER_DISMISSAL.md) section.
+
+## Effort
+It should be clear that been a PL entails more responsibilities, requires more commitment and a higher level of effort.
