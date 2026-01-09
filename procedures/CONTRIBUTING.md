@@ -1,5 +1,9 @@
 # Contributing to SciCat Projects
 
+## Abbreviations and Links
+
+
+## Description
 Each SciCat repository should have designated Maintainers (listed in the repository's MAINTAINERS.md file). They determine the repository's process for accepting contributions, articulated in the repository's CONTRIBUTING.md file.
 
 Broadly, repositories should use one of the following workflows:

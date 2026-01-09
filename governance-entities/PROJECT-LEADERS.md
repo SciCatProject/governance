@@ -2,6 +2,8 @@
 
 ## Abbreviations
 PL = Project Leader(s)
+SC = [Steering Committee](./STEERING-COMMITTEE.md)
+Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Description
 The Project Leaders (PL) are elected Project Contributors tasked with leading the Project.
@@ -33,7 +35,11 @@ The PL's duties and responsabilities are:
 PL do agree to put as much effort as required in performing the responsabilities highglighted.
 
 ## Eligibility
-Any Project Contributor is eligible to be nominated to become a Project Leader, proven that he/she has a solid knowledge of the Project, and granted that he/she is associated to a supporting facility. He/she might be asked to sustain an interview with any of the Project governing entities. The interviews will be decided by the current PLs on per-nomination case.
+Any Project Contributor is eligible to be nominated to become a Project Leader, proven that:
+- he/she has a solid knowledge of the Project,  
+- he/she is associated with a supporting facility.  
+
+He/she might be asked to sustain one or more interviews with any of the Project governing entities. The interviews will be decided by the current PL on per-nomination case, with the guidance of the SC.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
 ## Election
