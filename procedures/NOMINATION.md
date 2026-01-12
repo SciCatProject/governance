@@ -22,3 +22,5 @@ Each nomination must be supported by at least three Project AC. It should be com
 ## Important
 No matter, how many nominations/candidates are present for a single position, a vote will be called and the candidate with the most votes will be offered the position.
  
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

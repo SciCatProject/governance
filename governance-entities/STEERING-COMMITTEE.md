@@ -39,3 +39,5 @@ There is no resignation process from the Steering Committee, although members ar
 ## Effort evaluation
 During the yearly meeting, each contributing facility is required to state the effort allocated for the following year, so representation in the SC can be adjusted.
 
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

@@ -10,3 +10,6 @@ At the moment of this writing, official PC are:
 - [Official website](https://scicatproject.org)
 - Slack group and channels
 - Mailing list
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

@@ -25,3 +25,5 @@ If a reasonable agreement can be reached between the parties involved, the PL wi
 If no reasonable agreement can be reached, the situation is escalated and a vote on the matter will be called. The vote will decide the early dismissal of the member subject of the protocol.  
 The whole process should be documented for fairness and later review. In case of harrassment, the identity of the victim should be protected and revealed only with the victim's agreement
 
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

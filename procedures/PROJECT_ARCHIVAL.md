@@ -20,3 +20,5 @@ Valid reasons for archival can be one or many, but not limited to, one of the fo
 The proposed archival should be announced publicly through the official project channels. A period of discussion should follow and than a vote should be scheduled. If voting express positive support, the project and the connected repo should be archived.
 The process should be documented and the information should be publicly available.
 
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

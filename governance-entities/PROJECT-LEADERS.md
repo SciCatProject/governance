@@ -58,3 +58,6 @@ At any time, a PL can be asked to resign from the PL role following conflicts or
 
 ## Effort
 It should be clear that been a PL entails more responsibilities, requires more commitment and a higher level of effort.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

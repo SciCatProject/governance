@@ -37,3 +37,6 @@ A TL might be asked to leave his/hers leadership position following conflicts or
 
 ## Effort
 It should be clear that been a TL entails more responsibilities, requires more commitment and a higher level of effort.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

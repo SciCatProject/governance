@@ -7,4 +7,4 @@ This document lists the members of the Organization's Project Advisory Board or 
 |  ... | ... | ... | ... |
 
 ---
-Adapted from [GitHub's MVG-0.1-beta](https://github.com/github/MVG). Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

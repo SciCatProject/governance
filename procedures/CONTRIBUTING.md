@@ -1,36 +1,32 @@
 # Contributing to SciCat Projects
 
 ## Abbreviations and Links
+Core = [SciCat Core](../project-components/SCICAT-CORE.md)
 
 
 ## Description
-Each SciCat repository should have designated Maintainers (listed in the repository's MAINTAINERS.md file). They determine the repository's process for accepting contributions, articulated in the repository's CONTRIBUTING.md file.
+Core repositories follows the procedure indicated below for contributions.
 
-Broadly, repositories should use one of the following workflows:
+Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository. 
+Each repository should also indicate who are the maintainers of the repository and list them, together with their responsibility, in the MAINTAINERS.md file.
 
-## Latest Stable
-* Every change should go through a Pull Request.
+## SciCat Contributing Workflow 
+* Latest version of the project code should be contained in a branch named _master_ or _main_.  
+* Main branch _master_ or _main_ should be protected and can not be directly modified.
+* Any work-in-progress on the code, including but not limited to new features, bug fixing and non-code changes, should be conducted in a dedicated branch or a fork with read and write access for the maintainers.  
+* Every requested change should go through a Pull Request from the dedicated branch to the _master_ or _main_ branch of the project repo.
 * The person submitting a Pull Request should not merge their own Pull Request.
-* Proposed changes with a large impact---including changes that introduce
-  new concepts, technologies or depenencies; alter the project's scope; or make significant backward-incompatible changes---should be left open for at least one week to allow time for comment, and review should be solicited from a broad range of Maintainers or Contributors who may have useful input on the impact of the change. It is up to a repositiory's Maintainers to judge how much review is needed for a given Pull Request.
-* This code should be in the `main` or `master` branch
-* utilize automated CI pipelines to test prior PR merging
-
-## Releases
-* have releases with a clear naming convention. We suggest using semantic naming. 
-* produce releases in a predictable manner and according to a schedule, if possbile.
-* have a dedicated release branch
-* utilize automated CI pipelines to test and versioning
-
-## Experimental
-SciCat projects are typically public from the very first commit. In this
-early stage, the Maintainers have complete discretion about what
-if any review is needed. Changes may be pushed directly to the `main`
-branch; pull request may be self-merged.
-
-## Non-code repositories
-Non-code repositories should select a workflow repository-by-repository basis that matches the intended usage.
+* Pull requests review should be solicited among the list of official project reviewers and the community as a whole.
+* Pull requests with large impact should be reviewed by at least 2 maintainers, one of which should be from a different institution or group.
+* The review period for pull requests with large impact is minimum a week and maximum 2 weeks.
+* Pull requests with lower impact can be reviewed by at least 1 maintainer.
+* The review period for pull requests with lower impact is maximum 2 weeks.
+* It is the responsibility of submitter and the maintainers to indicate the impact of the pull request. 
+* The impact can be changed after the initial submission, granted that a valid justification is provided and publicly documented.
+* The pull requests should be approved and pass all the CI tests before can be merged.
+* Only maintainers with the assigned role of pull request masters can merge approved pull requests.
+* the related branch should be deleted when the pull request is merged or closed.
 
 
 ---
-Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

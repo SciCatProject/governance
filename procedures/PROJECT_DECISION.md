@@ -11,3 +11,5 @@ VB = [Voting Body](../governance-entities/VOTING-BODY.md)
 Any decision that impact the Project, as a whole on any of its components, should be supported with a proper voting of the eligible voters.
 Eligible voters are clearly defined in the Voting Body section. Any changes needed to the Voting Body should be supported by the Project Leaders, with the support of the Steering Committee, and clearly and publicly stated in the voting announcement.
  
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

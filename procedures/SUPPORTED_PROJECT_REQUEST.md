@@ -25,3 +25,6 @@ The Project Leaders will make sure to present the case to the relevant stakehold
 
 ## Results
 The candidate project will acquire the status of Supported Project, if the request obtains the majority of the votes.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

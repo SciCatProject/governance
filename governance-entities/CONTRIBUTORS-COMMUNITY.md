@@ -40,3 +40,6 @@ If majority cannot be reached, the matter at hand must be raised to the attentio
 
 ## Conflicts
 If any conflicts arise within the CC, the matter at hand must be raised to the attention of the Project Leaders, which will decide the best course of action. 
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

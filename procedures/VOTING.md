@@ -33,4 +33,5 @@ The PL will be the guaranteers of the vote. They also have the duty to document 
 ## Results
 Voting results should be documented and publicly accessible through the official PC.
 
-
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

@@ -31,3 +31,6 @@ User feedback should be provide through the official channels:
 - direct contact with contributors.
 
 Users can participate to the contributors meetings upon request. They are highly encouraged to inform the meeting organizers if they want any specific topic on the agenda. They should respect the meeting agenda.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

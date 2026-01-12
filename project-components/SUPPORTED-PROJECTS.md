@@ -21,3 +21,6 @@ SP may be orphaned, meaning they do have no project leadership and/or contributo
 
 ## Process
 A project linked to SciCat can become an SP by following the procedure described under the [supported Project Request](../procedures/SUPPORTED_PROJECT_REQUEST.md) section.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

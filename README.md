@@ -76,3 +76,5 @@ We are in Step 2 of the following process:
 
 Even if we are in step 2, we already working to find Project Leaders, and forming the Main Technical Committee.
 
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

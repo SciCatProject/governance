@@ -21,3 +21,6 @@ An Advisory Group should be limited in time and it ends once they have submitted
 ## Output
 The feedback from an AG should be recorded in written format and be available to the community.
 It is responsibility of the individuals which requested advice of the AG to make sure the feedback is recorded and publicly available. 
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

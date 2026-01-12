@@ -13,3 +13,6 @@ If the matter at hand requires changes to the VB, the changes requested should b
 - discussed in advanced with the PL, 
 - publicly announced on the offical PC,
 - well documented in the vote minutes
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
