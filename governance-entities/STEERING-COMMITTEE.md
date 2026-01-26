@@ -1,0 +1,43 @@
+# Steering Committee
+
+## Abbreviation
+SC = Steering Committee
+FT = Full Time
+
+## Description
+The Steering Committee includes representatives of supporting facilities.
+Members of the Steering Committee should not be Project Contributors, but should be part of the management team of the facilities or consortiuum they are part of.
+
+## Responsibilities and Duties
+The SC is tasked with:
+- providing guidance and non-binding feedback to the Project Leaders (PL), 
+- promoting the Project within their home facilties and science community
+- promoting the Project at large
+- help sustaining the project
+- discover possible funding sources
+- make sure that their facility allocates resources to sustain the project
+
+## Meeting
+The SC should meet at least once a year, possibly in person and at the annual meeting SciCatCon.
+The meeting will be scheduled and announced in due time through the Project official channels.
+Aside of the single annual meeting, additional meetings might be organized based on the Project needs. Additional meetings can happen on-line.
+
+## Eligibility
+A person is eligible to become a member of the SC if and only if their home facility is able to allocate at least a half FT, or an equivalent effort, to sustain the Project.  
+
+## Representation
+Each supporting facility is granted a number of votes equivalent to the number of half FTs that is able to dedicate to the Project.
+The number of votes are distributed among the members representing the facility. The maximum number of facility members is equal to the number of half FTs allocated by the facility.
+
+## Posting Duration
+Memberships in the SC are not time bounded.
+The participating facility has the responsibility to manage its membership to the SC and nominate a new member if a current one is stepping down.
+
+## Resignation
+There is no resignation process from the Steering Committee, although members are asked to inform the Project members if they want to resign and be replaced in the Project.
+
+## Effort evaluation
+During the yearly meeting, each contributing facility is required to state the effort allocated for the following year, so representation in the SC can be adjusted.
+
+---
+Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
