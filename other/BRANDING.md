@@ -1,7 +1,7 @@
 # Branding and promotion
 
 ## Abbreviations and Links
-PL = [Preoject Leaders](../governance-entities/PROJECT-LEADERS.md)
+PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
 SC = [Steering Committee](../governance-entities/STEERING-COMMITTEE.md)
 Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 

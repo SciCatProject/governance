@@ -3,7 +3,7 @@
 ## Abbreviation
 CC = Contributors Community
 AC = Active Contributors
-HC = Honorary Contributors
+PC = Past Contributors
 
 ## Description
 The Contributors Community (CC) includes any person who is actively contributing or have contributed to the Project, being the Core Components or any of its other components and supported projects. 
@@ -13,7 +13,7 @@ Contributions can be in the form of code PR, documentation, dissemination, manag
 Everybody is welcome to the contributors community, although it is suggested a certain level of proficiency with the tools, the code base, the technology stack, project management or sustainability experience in order to maximize productivity of the contributed effort with the time constraints in place.
 Contributors Community has two type of members:
 - _active contributors_:  
-  Any contributors that is contributing or has contributed to the project in the previous year
+  Any contributors that is currently contributing or has contributed to the project in the previous year
 - _past contributors_:  
   Any contributors that has contributed to the project in the past but not in the last year
 

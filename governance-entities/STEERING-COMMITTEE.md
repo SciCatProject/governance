@@ -14,7 +14,7 @@ The SC is tasked with:
 - promoting the Project within their home facilties and science community
 - promoting the Project at large
 - help sustaining the project
-- discover possible founding sources
+- discover possible funding sources
 - make sure that their facility allocates resources to sustain the project
 
 ## Meeting
@@ -34,7 +34,7 @@ Memberships in the SC are not time bounded.
 The participating facility has the responsibility to manage its membership to the SC and nominate a new member if a current one is stepping down.
 
 ## Resignation
-There is no resignation process from the Steering Committee, although members are asked to inform the Project members if he/she will be replace in the Project.
+There is no resignation process from the Steering Committee, although members are asked to inform the Project members if they want to resign and be replaced in the Project.
 
 ## Effort evaluation
 During the yearly meeting, each contributing facility is required to state the effort allocated for the following year, so representation in the SC can be adjusted.

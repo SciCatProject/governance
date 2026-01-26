@@ -32,7 +32,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 - Sustainability
 
 ## Governance Components
-- Governance Entities
+- Governance Entities  
   - [User Community](./governance-entities/USER-COMMUNITY.md)
   - [Contributors Community](./governance-entities/CONTRIBUTORS-COMMUNITY.md)
   - [Technical Leaders](./governance-entities/TECHNICAL-LEADERS.md)

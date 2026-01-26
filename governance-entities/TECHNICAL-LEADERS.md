@@ -2,10 +2,12 @@
 
 ## Abbreviation
 TL = Technical Leader
+CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
+SS = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
 
 ## Description
-Technical Leaders (TL) are any active contributor who volunteer to lead a specific cascading project or effort within the Project. The technical leadership is official after a public announcement and when listed in the related files under the Roles folder. 
-By cascading project or effort is intended a specific feature development, a supported project or any specific effort, such as, but not limited to, documentation, web site maintenance, and UI/UX.
+Technical Leaders (TL) are any active member of the Contributors Community who volunteer to lead a specific cascading project or effort within the Project. The technical leadership is official after a public announcement and when listed in the related files under the Roles folder. 
+By cascading project or effort is intended a specific feature development, a Supported Project or any specific effort, such as, but not limited to, documentation, web site maintenance, and UI/UX.
 
 ## Responsibilities
 TL's responsibilities are:
@@ -27,7 +29,7 @@ The name of the TL must posted on the Project website and inserted in the relate
 For supported project, the project repository should contain a file named GOVERNANCE.md listing the name of the offical TL and, possibly, the official maintainers
 
 ## Posting Duration
-There is no posting duration for TL. a TL can stay in his/her position as long as he/she is effective and productive in hte context of the project
+There is no posting duration for TL. A TL can stay in his/her position as long as he/she is effective and productive in the context of the project
 
 ## Resignation
 An official TL can resign at any point from his leadership position by informing the Project Leaders (PL) and posting an official communication through the official Project channels.
