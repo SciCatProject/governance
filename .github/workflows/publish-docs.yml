@@ -8,7 +8,7 @@ on:  # yamllint disable-line rule:truthy
       - v*
 
 jobs:
-  build:
+  build_publish:
     runs-on: ubuntu-latest
     steps:
       - uses: SciCatProject/docs-template/.github/actions/mkdocs-pages@main
