@@ -32,7 +32,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 - Sustainability
 
 ## Governance Components
-- Governance Entities  
+### Governance Entities  
   - [User Community](./governance-entities/USER-COMMUNITY.md)
   - [Contributors Community](./governance-entities/CONTRIBUTORS-COMMUNITY.md)
   - [Technical Leaders](./governance-entities/TECHNICAL-LEADERS.md)
@@ -41,12 +41,12 @@ The Governance Entities of the Project are set in place to promote a positive de
   - [Advisory Boards](./governance-entities/ADVISORY-BOARDS.md)
   - [Facilities](./governance-entities/FACILITIES.md)
   - [Voting Body](./governance-entities/VOTING-BODY.md)
-- Project Components
+### Project Components
   - [SciCat Project](./project-components/SCICAT-PROJECT.md)
   - [SciCat Core](./project-components/SCICAT-CORE.md)
   - [Supported Projects](./project-components/SUPPORTED-PROJECTS.md)
   - [Project Channels](./project-components/PROJECT-CHANNELS.md)
-- Procedures
+### Procedures
   - [Voting](./procedures/VOTING.md)
   - [Nomination](./procedures/NOMINATION.md)
   - [Member Early Dismissal](./procedures/MEMBER_DISMISSAL.md)
@@ -54,7 +54,7 @@ The Governance Entities of the Project are set in place to promote a positive de
   - [Project Archival](./procedures/PROJECT_ARCHIVAL.md)
   - [Project Decision](./procedures/PROJECT_DECISION.md)
   - [Contributing](./procedure/CONTRIBUtING.md)
-- Other Relevant Documents
+### Other Relevant Documents
   - [Code of conduct](./other/CODE-OF-CONDUCT.md)
   - [Branding](./other/BRANDING.md)
   - [License](./other/LICENSE.md)
