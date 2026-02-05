@@ -54,6 +54,11 @@ The Governance Entities of the Project are set in place to promote a positive de
   - [Project Archival](./procedures/PROJECT_ARCHIVAL.md)
   - [Project Decision](./procedures/PROJECT_DECISION.md)
   - [Contributing](./procedure/CONTRIBUtING.md)
+### Roles
+  - [Steering Committee](./roles/STEERING-COMMITTEE.md)
+  - [Project Leaders](./roles/PROJECT-LEADERS.md)
+  - [Technical Leaders](./roles/TECHNICAL-LEADERS.md)
+  - [Advisory Boards](./roles/ADVISORY-BOARDS.md)
 ### Other Relevant Documents
   - [Code of conduct](./other/CODE-OF-CONDUCT.md)
   - [Branding](./other/BRANDING.md)
