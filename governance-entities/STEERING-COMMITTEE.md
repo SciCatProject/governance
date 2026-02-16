@@ -19,6 +19,7 @@ The SC is tasked with:
 - help sustaining the project
 - discover possible funding sources
 - make sure that their facility allocates resources to sustain the project
+- monitor, confirm and support fair election of candidates for Project Leaders and Technical Leaders positions.  
 
 ## Meeting
 The SC should meet at least once a year, possibly in person and at the annual meeting SciCatCon.
