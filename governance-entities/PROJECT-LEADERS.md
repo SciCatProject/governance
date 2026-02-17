@@ -1,10 +1,10 @@
 # Project Leaders
 
 ## Abbreviations
-PL = Project Leader(s)
-SC = [Steering Committee](./STEERING-COMMITTEE.md)
-CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
-Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
+PL = Project Leader(s)  
+SC = [Steering Committee](./STEERING-COMMITTEE.md)  
+CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)  
+Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)  
 
 ## Description
 The Project Leaders (PL) are elected members of the Contributors Community tasked with leading the Project.
