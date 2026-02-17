@@ -43,11 +43,15 @@ Any member of the Contributors Community is eligible to be nominated to become a
 They might be asked to sustain one or more interviews with any of the Project governing entities. The interviews will be decided by the current PL on per-nomination case, with the guidance of the SC.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
+## NOMINATION
+For each open position as a Project Leader, any member of the Contributors Community who is eligible can be nominated as candidate according to the rules and conditions explained under the [Nomination](../procedures/NOMINATION.md) section.  
+
 ## Election
-For each open position as PL, any member of the Contributors Community can be nominated as candidate.  
 No matter the number of candidates for each position, a vote by the Contributors Voting Body is required. 
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
-their Durationtheir maintain their role for a three plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew their condidacies for the following three years and participate in the next round of election.
+
+## Duration
+Project Leaders maintain their role for a three plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew their condidacies for the following three years and participate in the next round of elections.
 
 ## Resignation
 At any time, an elected PL can resign from his/her position by submitting a written resignation to the other PLs and communicating his/hers decision through the official Project channels.
