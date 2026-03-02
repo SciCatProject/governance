@@ -9,7 +9,10 @@ affiliation with another organization (designated below), you represent that you
 | --- | --- | --- |
 | Fredrik Bolmsten | --- | ESS |
 | Alun Ashtun | --- | PSI |
-
+| Paolo Mutti | --- | ILL |
+| Mark Basham | --- | RFI |
+| --- | --- | --- |
+  
 
 ---
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
