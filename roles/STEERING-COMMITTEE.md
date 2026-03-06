@@ -8,15 +8,20 @@ By adding your name to this list you are agreeing to abide by all Organization p
 
 If you are serving on the Steering Committee because of your
 affiliation with another organization (designated below), you represent that you have authority to bind that organization to these policies.
+  
+__IMPORTANT__: 
+- _Membership is still preliminary and will need to be confirmed_
+- _please comment or reach out to the Project Leaders with any feedback or comment_
 
-| **NAME** | **GitHub Handle** | **Supporting Organization** |
+
+| **NAME** | **GitHub Handle** | **Supporting Organization** | **Status** |
 | --- | --- | --- |
-| Fredrik Bolmsten | --- | ESS |
-| Alun Ashtun | --- | PSI |
-| Paolo Mutti | --- | ILL |
-| Mark Basham | --- | RFI |
-| Bridget Murphy | --- | DESY/DAPHNE |
-| --- | --- | --- |
+| Fredrik Bolmsten | --- | ESS | Preliminary |
+| Alun Ashtun | --- | PSI | Preliminary |
+| Paolo Mutti | --- | ILL | Preliminary |
+| Mark Basham | --- | RFI | Preliminary |
+| Bridget Murphy | --- | DESY/DAPHNE | Preliminary |
+| --- | --- | --- | --- |
   
 
 ---
