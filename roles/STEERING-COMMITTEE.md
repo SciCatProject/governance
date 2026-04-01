@@ -15,12 +15,14 @@ __IMPORTANT__:
 
 
 | **NAME** | **GitHub Handle** | **Supporting Organization** | **Status** |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Fredrik Bolmsten | --- | ESS | Preliminary |
 | Alun Ashtun | --- | PSI | Preliminary |
 | Paolo Mutti | --- | ILL | Preliminary |
 | Mark Basham | --- | RFI | Preliminary |
-| Bridget Murphy | --- | DESY/DAPHNE | Preliminary |
+| Bridget Murphy | --- | DAPHNE | Preliminary |
+| Philipp Neumann | --- | DESY | Preliminary |
+| Daphne van Dijken | --- | Dectris | Preliminary |
 | --- | --- | --- | --- |
   
 
