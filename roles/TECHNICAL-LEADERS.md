@@ -6,7 +6,8 @@ By adding your name to one of the position listed in this document, you are agre
 | **EFFORT/PROJECT** | **NAME** | **GitHub Handle** | **Affiliated Organization** | **Mandate started** |
 | --- | --- | --- | --- | --- |
 | Core effort or Supported Project | Name | Git Handle | Organization | Started |
-| --- | --- | --- | --- | --- |
+| BE | Junje Quan | Junjiequan | ESS | 2026/01/01 |
+| --- | --- | --- | --- | --- | 
 
 ---
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
