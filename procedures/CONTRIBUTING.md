@@ -1,32 +1,78 @@
 # Contributing to SciCat Projects
 
 ## Abbreviations and Links
+
 Core = [SciCat Core](../project-components/SCICAT-CORE.md)
 
-
 ## Description
+
 Core repositories follows the procedure indicated below for contributions.
 
-Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository. 
+Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository.  
 Each repository should also indicate who are the maintainers of the repository and list them, together with their responsibility, in the MAINTAINERS.md file.
 
-## SciCat Contributing Workflow 
-* Latest version of the project code should be contained in a branch named _master_ or _main_.  
-* Main branch _master_ or _main_ should be protected and can not be directly modified.
-* Any work-in-progress on the code, including but not limited to new features, bug fixing and non-code changes, should be conducted in a dedicated branch or a fork with read and write access for the maintainers.  
-* Every requested change should go through a Pull Request from the dedicated branch to the _master_ or _main_ branch of the project repo.
-* The person submitting a Pull Request should not merge their own Pull Request.
-* Pull requests review should be solicited among the list of official project reviewers and the community as a whole.
-* Pull requests with large impact should be reviewed by at least 2 maintainers, one of which should be from a different institution or group.
-* The review period for pull requests with large impact is minimum a week and maximum 2 weeks.
-* Pull requests with lower impact can be reviewed by at least 1 maintainer.
-* The review period for pull requests with lower impact is maximum 2 weeks.
-* It is the responsibility of submitter and the maintainers to indicate the impact of the pull request. 
-* The impact can be changed after the initial submission, granted that a valid justification is provided and publicly documented.
-* The pull requests should be approved and pass all the CI tests before can be merged.
-* Only maintainers with the assigned role of pull request masters can merge approved pull requests.
-* the related branch should be deleted when the pull request is merged or closed.
+## Merge Permissions
 
+Each repository should have a merging group indicating who has merge permissions.  
+The SciCat project leaders and the project leaders are automatically part of the project merge group.  
+Other contributors can be part of the merge group. A contributor shall submit a dedicated request in order to be added to such group.  
+Membership to the merge group is managed by the project leaders.  
+
+The SciCat core repositories are managed as a single project. They have a single maintainers group and a single merge group.
+
+## SciCat Contributing Workflow
+
+### 1. Main Branch Policy
+
+* The latest stable version of the code **must reside in `master` or `main`**.
+* The `master` / `main` branch **is protected** and **must not be modified directly**.
+
+### 2. Development Workflow
+
+* All work (new features, bug fixes, documentation, or other changes) **must be done in a dedicated branch or a repository fork** depending on the user access.
+* Dedicated forks **must allow read and write access for maintainers**.
+* No changes may be introduced in `main` / `master` without a **Pull Request (PR)**.
+
+### 3. Pull Request Requirements
+
+* Every change **must be submitted via a Pull Request** targeting `master` / `main`.
+* The **author of a Pull Request must not merge their own PR**.
+* The author of a Pull Request must indicate the impact of the changes
+* Reviews should be requested from official project reviewers, and The wider community when appropriate.
+* When possible, reviewers should have the required skills to provide an unbiased and expert feedback.
+
+### 4. Impact Classification
+
+* Each Pull Request **must be classified by its impact**: _large_ or _lower_.
+* **Responsibility for impact classification lies with the author**
+* Repository maintainers can review and change the Pull Request impact.
+* The impact classification **may be updated after submission**, provided:
+  * A valid justification is given, and
+  * The change is publicly documented in the PR.
+
+### 5. Review Rules
+
+#### Large-Impact Pull Requests
+
+* Must be reviewed by **at least two maintainers**.
+* At least **one reviewer must be from a different institution or group**.
+* Review period: **minimum 1 week, maximum 2 weeks**.
+
+#### Lower-Impact Pull Requests
+
+* Must be reviewed by **at least one maintainer**.
+* Review period: **maximum 2 weeks**.
+
+### 6. Approval, CI, and Merge
+
+* A Pull Request **must be approved** and **pass all CI checks** before it can be merged.
+* **Only maintainers with the “Pull Request Master” role** may merge approved Pull Requests.
+
+### 7. Branch Cleanup
+
+* The source branch **must be deleted** once the Pull Request is merged or closed.
+
+![Contributing Worflow](./contributing.png)
 
 ---
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
