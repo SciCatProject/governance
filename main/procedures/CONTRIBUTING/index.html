@@ -1171,6 +1171,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#merge-permissions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Merge Permissions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#scicat-contributing-workflow" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1178,6 +1189,117 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="SciCat Contributing Workflow">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-main-branch-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Main Branch Policy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-development-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Development Workflow
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-pull-request-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Pull Request Requirements
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-impact-classification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Impact Classification
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-review-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Review Rules
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Review Rules">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#large-impact-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Large-Impact Pull Requests
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lower-impact-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lower-Impact Pull Requests
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-approval-ci-and-merge" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6. Approval, CI, and Merge
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-branch-cleanup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        7. Branch Cleanup
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1203,26 +1325,65 @@
 <p>Core = <a href="../../project-components/SCICAT-CORE/">SciCat Core</a></p>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">¶</a></h2>
 <p>Core repositories follows the procedure indicated below for contributions.</p>
-<p>Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository. 
+<p>Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository.<br>
 Each repository should also indicate who are the maintainers of the repository and list them, together with their responsibility, in the MAINTAINERS.md file.</p>
+<h2 id="merge-permissions">Merge Permissions<a class="headerlink" href="#merge-permissions" title="Permanent link">¶</a></h2>
+<p>Each repository should have a merging group indicating who has merge permissions.<br>
+The SciCat project leaders and the project leaders are automatically part of the project merge group.<br>
+Other contributors can be part of the merge group. A contributor shall submit a dedicated request in order to be added to such group.<br>
+Membership to the merge group is managed by the project leaders.  </p>
+<p>The SciCat core repositories are managed as a single project. They have a single maintainers group and a single merge group.</p>
 <h2 id="scicat-contributing-workflow">SciCat Contributing Workflow<a class="headerlink" href="#scicat-contributing-workflow" title="Permanent link">¶</a></h2>
+<h3 id="1-main-branch-policy">1. Main Branch Policy<a class="headerlink" href="#1-main-branch-policy" title="Permanent link">¶</a></h3>
 <ul>
-<li>Latest version of the project code should be contained in a branch named <em>master</em> or <em>main</em>.  </li>
-<li>Main branch <em>master</em> or <em>main</em> should be protected and can not be directly modified.</li>
-<li>Any work-in-progress on the code, including but not limited to new features, bug fixing and non-code changes, should be conducted in a dedicated branch or a fork with read and write access for the maintainers.  </li>
-<li>Every requested change should go through a Pull Request from the dedicated branch to the <em>master</em> or <em>main</em> branch of the project repo.</li>
-<li>The person submitting a Pull Request should not merge their own Pull Request.</li>
-<li>Pull requests review should be solicited among the list of official project reviewers and the community as a whole.</li>
-<li>Pull requests with large impact should be reviewed by at least 2 maintainers, one of which should be from a different institution or group.</li>
-<li>The review period for pull requests with large impact is minimum a week and maximum 2 weeks.</li>
-<li>Pull requests with lower impact can be reviewed by at least 1 maintainer.</li>
-<li>The review period for pull requests with lower impact is maximum 2 weeks.</li>
-<li>It is the responsibility of submitter and the maintainers to indicate the impact of the pull request. </li>
-<li>The impact can be changed after the initial submission, granted that a valid justification is provided and publicly documented.</li>
-<li>The pull requests should be approved and pass all the CI tests before can be merged.</li>
-<li>Only maintainers with the assigned role of pull request masters can merge approved pull requests.</li>
-<li>the related branch should be deleted when the pull request is merged or closed.</li>
+<li>The latest stable version of the code <strong>must reside in <code>master</code> or <code>main</code></strong>.</li>
+<li>The <code>master</code> / <code>main</code> branch <strong>is protected</strong> and <strong>must not be modified directly</strong>.</li>
 </ul>
+<h3 id="2-development-workflow">2. Development Workflow<a class="headerlink" href="#2-development-workflow" title="Permanent link">¶</a></h3>
+<ul>
+<li>All work (new features, bug fixes, documentation, or other changes) <strong>must be done in a dedicated branch or a repository fork</strong> depending on the user access.</li>
+<li>Dedicated forks <strong>must allow read and write access for maintainers</strong>.</li>
+<li>No changes may be introduced in <code>main</code> / <code>master</code> without a <strong>Pull Request (PR)</strong>.</li>
+</ul>
+<h3 id="3-pull-request-requirements">3. Pull Request Requirements<a class="headerlink" href="#3-pull-request-requirements" title="Permanent link">¶</a></h3>
+<ul>
+<li>Every change <strong>must be submitted via a Pull Request</strong> targeting <code>master</code> / <code>main</code>.</li>
+<li>The <strong>author of a Pull Request must not merge their own PR</strong>.</li>
+<li>The author of a Pull Request must indicate the impact of the changes</li>
+<li>Reviews should be requested from official project reviewers, and The wider community when appropriate.</li>
+<li>When possible, reviewers should have the required skills to provide an unbiased and expert feedback.</li>
+</ul>
+<h3 id="4-impact-classification">4. Impact Classification<a class="headerlink" href="#4-impact-classification" title="Permanent link">¶</a></h3>
+<ul>
+<li>Each Pull Request <strong>must be classified by its impact</strong>: <em>large</em> or <em>lower</em>.</li>
+<li><strong>Responsibility for impact classification lies with the author</strong></li>
+<li>Repository maintainers can review and change the Pull Request impact.</li>
+<li>The impact classification <strong>may be updated after submission</strong>, provided:</li>
+<li>A valid justification is given, and</li>
+<li>The change is publicly documented in the PR.</li>
+</ul>
+<h3 id="5-review-rules">5. Review Rules<a class="headerlink" href="#5-review-rules" title="Permanent link">¶</a></h3>
+<h4 id="large-impact-pull-requests">Large-Impact Pull Requests<a class="headerlink" href="#large-impact-pull-requests" title="Permanent link">¶</a></h4>
+<ul>
+<li>Must be reviewed by <strong>at least two maintainers</strong>.</li>
+<li>At least <strong>one reviewer must be from a different institution or group</strong>.</li>
+<li>Review period: <strong>minimum 1 week, maximum 2 weeks</strong>.</li>
+</ul>
+<h4 id="lower-impact-pull-requests">Lower-Impact Pull Requests<a class="headerlink" href="#lower-impact-pull-requests" title="Permanent link">¶</a></h4>
+<ul>
+<li>Must be reviewed by <strong>at least one maintainer</strong>.</li>
+<li>Review period: <strong>maximum 2 weeks</strong>.</li>
+</ul>
+<h3 id="6-approval-ci-and-merge">6. Approval, CI, and Merge<a class="headerlink" href="#6-approval-ci-and-merge" title="Permanent link">¶</a></h3>
+<ul>
+<li>A Pull Request <strong>must be approved</strong> and <strong>pass all CI checks</strong> before it can be merged.</li>
+<li><strong>Only maintainers with the “Pull Request Master” role</strong> may merge approved Pull Requests.</li>
+</ul>
+<h3 id="7-branch-cleanup">7. Branch Cleanup<a class="headerlink" href="#7-branch-cleanup" title="Permanent link">¶</a></h3>
+<ul>
+<li>The source branch <strong>must be deleted</strong> once the Pull Request is merged or closed.</li>
+</ul>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../contributing.png" data-desc-position="bottom"><img alt="Contributing Worflow" src="../contributing.png"></a></p>
 <hr>
 <p>Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> License.</p>
 
