@@ -6,8 +6,8 @@ This document lists the members of the Organization's Project Leaders or PL. Eac
 | --- | --- | --- | --- | --- |
 | Project Leader | Massimiliano (Max) Novelli | nitrosx | ESS | 2026-01-01 |
 | Project Leader | Laura Shemilt | LAShemilt | RFI | 2026-01-01 |
-| Deputy Project Leader | | | | |
+| Project Leader | | | | |
 | --- | --- | --- | --- | --- |
 
----
+***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

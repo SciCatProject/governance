@@ -6,9 +6,10 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-
 ## Our Standards
+
 ### Acceptable behaviours
+
 Examples of acceptable and encouraged behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -18,6 +19,7 @@ Examples of acceptable and encouraged behavior that contributes to a positive en
 * Focusing on what is best not just for us as individuals, but for the overall community
 
 ### Unacceptable behaviours
+
 Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
@@ -29,24 +31,24 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-
 ## Enforcement Responsibilities
+
 Project leaders, technical leaders and steering committee members are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Project and technical leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate. 
+Project and technical leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 Leaders have also the right to dismiss early a community member if his/her behaviour is disruptive to the project and/or threatning towards other community members.
 
-
 ## Scope
+
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-
 ## Enforcement
+
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project leaders, technical leaders or members of the steering committee and followed up by the appointed leader for enforcement as set forth in the [member's early dismissal](../procedures/MEMBER_EARLY_DISMISSAL.md) section. All complaints will be reviewed and investigated promptly and fairly.
 All project leaders, technical leaders and members of the steering committee are obligated to respect the privacy and security of the reporter of any incident.
 
-
 ## Enforcement Guidelines
+
 The project leadership will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
@@ -75,13 +77,13 @@ The project leadership will follow these Community Impact Guidelines in determin
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][https://www.contributor-covenant.org], version 2.0,
-available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0,
+available at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
 For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+<https://www.contributor-covenant.org/faq>. Translations are available at <https://www.contributor-covenant.org/translations>.
 
----
+***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

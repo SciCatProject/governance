@@ -60,36 +60,36 @@ The following rules must be followed if AI is used in any PR contributed to the 
 
 ### 4. Impact Classification
 
-* Each Pull Request **must be classified by its impact**: _large_ or _lower_.
-* **Responsibility for impact classification lies with the author**
-* Repository maintainers can review and change the Pull Request impact.
-* The impact classification **may be updated after submission**, provided:
-  * A valid justification is given, and
-  * The change is publicly documented in the PR.
+- Each Pull Request **must be classified by its impact**: _large_ or _lower_.
+- **Responsibility for impact classification lies with the author**
+- Repository maintainers can review and change the Pull Request impact.
+- The impact classification **may be updated after submission**, provided:
+  - A valid justification is given, and
+  - The change is publicly documented in the PR.
 
 ### 5. Review Rules
 
 #### Large-Impact Pull Requests
 
-* Must be reviewed by **at least two maintainers**.
-* At least **one reviewer must be from a different institution or group**.
-* Review period: **minimum 1 week, maximum 2 weeks**.
+- Must be reviewed by **at least two maintainers**.
+- At least **one reviewer must be from a different institution or group**.
+- Review period: **minimum 1 week, maximum 2 weeks**.
 
 #### Lower-Impact Pull Requests
 
-* Must be reviewed by **at least one maintainer**.
-* Review period: **maximum 2 weeks**.
+- Must be reviewed by **at least one maintainer**.
+- Review period: **maximum 2 weeks**.
 
 ### 6. Approval, CI, and Merge
 
-* A Pull Request **must be approved** and **pass all CI checks** before it can be merged.
-* **Only maintainers with the “Pull Request Master” role** may merge approved Pull Requests.
+- A Pull Request **must be approved** and **pass all CI checks** before it can be merged.
+- **Only maintainers with the “Pull Request Master” role** may merge approved Pull Requests.
 
 ### 7. Branch Cleanup
 
-* The source branch **must be deleted** once the Pull Request is merged or closed.
+- The source branch **must be deleted** once the Pull Request is merged or closed.
 
 ![Contributing Worflow](./contributing.png)
 
----
+***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
