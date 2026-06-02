@@ -1,4 +1,4 @@
-# Users community
+# Users Community
 
 ## Description
 

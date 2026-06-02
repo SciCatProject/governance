@@ -39,7 +39,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 
 ### Governance Entities  
 
-- [User Community](./governance-entities/USER-COMMUNITY.md)
+- [Users Community](./governance-entities/USERS-COMMUNITY.md)
 - [Contributors Community](./governance-entities/CONTRIBUTORS-COMMUNITY.md)
 - [Technical Leaders](./governance-entities/TECHNICAL-LEADERS.md)
 - [Project Leaders](./governance-entities/PROJECT-LEADERS.md)
