@@ -39,6 +39,7 @@ pandoc \
   -o "scicat_governance_full_${SUFFIX}.pdf" \
   --toc \
   --pdf-engine=xelatex \
+  --resource-path=../procedures \
   -V geometry:"a4paper,portrait,margin=1.5cm" \
   -V fontsize=6pt
 
