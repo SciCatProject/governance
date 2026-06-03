@@ -28,9 +28,8 @@ The following rules must be followed if AI is used in any PR contributed to the 
 - All the PR must be created by a human submitter
 - The human submitter must review all AI-generated code
 - Compliance with licensing requirements must be ensured
-- The human submitter and reviewers must add their own Signed-off-by tag to certify the DCO (???)
 - The PR can be accepted only if at least one human reviewer has reviewed it and signed it off
-- Humans submitter and reviewers will take full responsibility for the contribution
+- Human submitter and reviewers will take full responsibility for the contribution
 - PR can be merged only by a human belonging to the Merge group
 - The PR should contain attribution on which AI service and agent has been used.
   The attribution should be in the following format:
