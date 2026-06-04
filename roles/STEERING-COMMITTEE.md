@@ -23,7 +23,7 @@ __IMPORTANT__:
 | Bridget Murphy | --- | DAPHNE | Preliminary |
 | Philipp Neumann | --- | DESY | Preliminary |
 | Daphne van Dijken | --- | Dectris | Preliminary |
-| ? | --- | MaxIV | Preliminary |
+| Marjam Lindberg | --- | MaxIV | Preliminary |
 | --- | --- | --- | --- |
 
 ***
