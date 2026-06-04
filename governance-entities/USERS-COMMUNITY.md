@@ -1,4 +1,4 @@
-# Users Cext install mistralai.mistral-vibe-codeommunity
+# Users Community
 
 ## Description
 
