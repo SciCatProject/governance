@@ -36,27 +36,26 @@ The following rules must be followed if AI is used in any PR contributed to the 
   The attribution should be in the following format:  
   Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]
 
-
 ## SciCat Contributing Workflow
 
 ### 1. Main Branch Policy
 
-* The latest stable version of the code **must reside in `master` or `main`**.
-* The `master` / `main` branch **is protected** and **must not be modified directly**.
+- The latest stable version of the code **must reside in `master` or `main`**.
+- The `master` / `main` branch **is protected** and **must not be modified directly**.
 
 ### 2. Development Workflow
 
-* All work (new features, bug fixes, documentation, or other changes) **must be done in a dedicated branch or a repository fork** depending on the user access.
-* Dedicated forks **must allow read and write access for maintainers**.
-* No changes may be introduced in `main` / `master` without a **Pull Request (PR)**.
+- All work (new features, bug fixes, documentation, or other changes) **must be done in a dedicated branch or a repository fork** depending on the user access.
+- Dedicated forks **must allow read and write access for maintainers**.
+- No changes may be introduced in `main` / `master` without a **Pull Request (PR)**.
 
 ### 3. Pull Request Requirements
 
-* Every change **must be submitted via a Pull Request** targeting `master` / `main`.
-* The **author of a Pull Request must not merge their own PR**.
-* The author of a Pull Request must indicate the impact of the changes
-* Reviews should be requested from official project reviewers, and The wider community when appropriate.
-* When possible, reviewers should have the required skills to provide an unbiased and expert feedback.
+- Every change **must be submitted via a Pull Request** targeting `master` / `main`.
+- The **author of a Pull Request must not merge their own PR**.
+- The author of a Pull Request must indicate the impact of the changes
+- Reviews should be requested from official project reviewers, and The wider community when appropriate.
+- When possible, reviewers should have the required skills to provide an unbiased and expert feedback.
 
 ### 4. Impact Classification
 
