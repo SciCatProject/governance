@@ -25,14 +25,15 @@ The SciCat core repositories are managed as a single project. They have a single
 In this paragraph we address the use of AI in developing code for the Project.
 The following rules must be followed if AI is used in any PR contributed to the Project:
 
-- All the PR must be created by a human submitter
+- We do not support automating raising of pull requests by Agentic AI.  
+  All PRs must be submitted by a human or a trusted tool bot e.g. dependabot.
 - The human submitter must review all AI-generated code
 - Compliance with licensing requirements must be ensured
 - The PR can be accepted only if at least one human reviewer has reviewed it and signed it off
 - Human submitter and reviewers will take full responsibility for the contribution
-- PR can be merged only by a human belonging to the Merge group
-- The PR should contain attribution on which AI service and agent has been used.
-  The attribution should be in the following format:
+- PR can be merged only by a person belonging to the Merge group
+- The PR should contain attribution on which AI service and agent has been used.  
+  The attribution should be in the following format:  
   Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]
 
 
@@ -59,36 +60,36 @@ The following rules must be followed if AI is used in any PR contributed to the 
 
 ### 4. Impact Classification
 
-* Each Pull Request **must be classified by its impact**: _large_ or _lower_.
-* **Responsibility for impact classification lies with the author**
-* Repository maintainers can review and change the Pull Request impact.
-* The impact classification **may be updated after submission**, provided:
-  * A valid justification is given, and
-  * The change is publicly documented in the PR.
+- Each Pull Request **must be classified by its impact**: _large_ or _lower_.
+- **Responsibility for impact classification lies with the author**
+- Repository maintainers can review and change the Pull Request impact.
+- The impact classification **may be updated after submission**, provided:
+  - A valid justification is given, and
+  - The change is publicly documented in the PR.
 
 ### 5. Review Rules
 
 #### Large-Impact Pull Requests
 
-* Must be reviewed by **at least two maintainers**.
-* At least **one reviewer must be from a different institution or group**.
-* Review period: **minimum 1 week, maximum 2 weeks**.
+- Must be reviewed by **at least two maintainers**.
+- At least **one reviewer must be from a different institution or group**.
+- Review period: **minimum 1 week, maximum 2 weeks**.
 
 #### Lower-Impact Pull Requests
 
-* Must be reviewed by **at least one maintainer**.
-* Review period: **maximum 2 weeks**.
+- Must be reviewed by **at least one maintainer**.
+- Review period: **maximum 2 weeks**.
 
 ### 6. Approval, CI, and Merge
 
-* A Pull Request **must be approved** and **pass all CI checks** before it can be merged.
-* **Only maintainers with the “Pull Request Master” role** may merge approved Pull Requests.
+- A Pull Request **must be approved** and **pass all CI checks** before it can be merged.
+- **Only maintainers with the “Pull Request Master” role** may merge approved Pull Requests.
 
 ### 7. Branch Cleanup
 
-* The source branch **must be deleted** once the Pull Request is merged or closed.
+- The source branch **must be deleted** once the Pull Request is merged or closed.
 
 ![Contributing Worflow](./contributing.png)
 
----
+***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
