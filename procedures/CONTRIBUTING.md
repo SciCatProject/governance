@@ -73,6 +73,7 @@ The following rules must be followed if AI is used in any PR contributed to the 
 
 - Must be reviewed by **at least two maintainers**.
 - At least **one reviewer must be from a different institution or group**.
+- At least one review should be a **technical review** giving detailed feedback about code changes. The second review may be a **conceptual review** which evaluates the appropriateness of the PR for inclusion in SciCat, but without evaluated the implementation details. Conceptual reviews should be clearly indicated in the review comments.
 - Review period: **minimum 1 week, maximum 2 weeks**.
 
 #### Lower-Impact Pull Requests
