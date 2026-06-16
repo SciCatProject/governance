@@ -2,11 +2,11 @@
 
 ## Abbreviations and Links
 
-PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)  
-VB = [Voting Body](../governance-entities/VOTING-BODY.md)  
-PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)  
-SC = [Steering committee](../governance-entities/STEERING-COMMITTEE.md)  
-Project = [SciCat Project](../project-components/SUPPORTED-PROJECTS.md)  
+PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)
+VB = [Voting Body](../governance-entities/VOTING-BODY.md)
+PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
+SC = [Steering committee](../governance-entities/STEERING-COMMITTEE.md)
+Project = [SciCat Project](../project-components/SUPPORTED-PROJECTS.md)
 
 ## Announcement
 
@@ -20,7 +20,7 @@ An official announcement should be made through the official PC, and it should i
 
 ## Discussion
 
-A discussion period should preceed time of the voting. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public and should be accessible through the official PC.
+A discussion period should precede the time of the voting. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public and should be accessible through the official PC.
 
 ## Decision Making
 
@@ -32,10 +32,14 @@ If a decision cannot be reached at all, the PL will seek out the guidance of the
 
 In any voting, each member of the VB will have one vote, and all the votes are equal.
 
+### Delegation
+
+In the case of absence during a vote, VB members may temporarily delegate their vote to another person by emailing the Project Leaders.
+
 ## Responsibilities
 
 It is the duty of the PL to call a vote on the matter at hand with reasonable notice and inform all the interested parties, better if the whole project, and, specifically, the project members eligible to vote.
-The PL will be the guaranteers of the vote. They also have the duty to document and report the results back to the community.
+The PL will be the guarantors of the vote. They also have the duty to document and report the results back to the community.
 
 ## Results
 

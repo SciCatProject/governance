@@ -5,7 +5,7 @@ _IMPORTANT: these governance document are still a work-in-progress_
 ## Introduction
 
 The purpose of this repository is to formalize the governance process that the SciCat project follows and has been using informally for the past few years.
-These documents clarify who has which responsibility, how decisions are made and how the various elements of our community interact.  
+These documents clarify who has which responsibility, how decisions are made and how the various elements of our community interact.
 It is based from [Bluesky governance](https://), which has been adapted from
 [GitHub's Minimum Viable Governance](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/).
 
@@ -37,7 +37,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 
 ## Governance Components
 
-### Governance Entities  
+### Governance Entities
 
 - [Users Community](./governance-entities/USERS-COMMUNITY.md)
 - [Contributors Community](./governance-entities/CONTRIBUTORS-COMMUNITY.md)
@@ -57,6 +57,8 @@ The Governance Entities of the Project are set in place to promote a positive de
 
 ### Procedures
 
+- [Ratification](./procedures/RATIFICATION.md)
+- [Amendment](./procedures/AMENDMENTS.md)
 - [Voting](./procedures/VOTING.md)
 - [Nomination](./procedures/NOMINATION.md)
 - [Member Early Dismissal](./procedures/MEMBER_DISMISSAL.md)
@@ -81,10 +83,10 @@ The Governance Entities of the Project are set in place to promote a positive de
 
 ## Status
 
-These documents are in active development. They have been adapted from:  
+These documents are in active development. They have been adapted from:
 
-- [Bluesky Governance](https://), which have been derived from the  
-- [GitHub's Minimum Viable Governance](https://github.com/github/MVG).  
+- [Bluesky Governance](https://), which have been derived from the
+- [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
 
 We are in Step 2 of the following process:
 
@@ -92,7 +94,7 @@ We are in Step 2 of the following process:
 2. Collect feedback and contributions from Collaborators and the Community
    Please use GitHub Issues and PRs on this repository to provide feedback anc contributions.
 3. Content revision based on feedback.
-4. Announce initial memberships for each group and committee and maintainers for each repo, if possible.  
+4. Announce initial memberships for each group and committee and maintainers for each repo, if possible.
 
 Even if we are in step 2, we already working to find Project Leaders, and forming the Main Technical Committee.
 
