@@ -5,6 +5,7 @@
 CC = Contributors Community
 AC = Active Contributors
 PC = Past Contributors
+VB = [Voting Body](./VOTING-BODY.md)
 
 ## Description
 
@@ -16,9 +17,9 @@ Contributions can be in the form of code PR, documentation, dissemination, manag
 Everybody is welcome to the contributors community, although it is suggested a certain level of proficiency with the tools, the code base, the technology stack, project management or sustainability experience in order to maximize productivity of the contributed effort with the time constraints in place.
 Contributors Community has two type of members:
 
-- _active contributors_:  
+- _active contributors_:
   Any contributors that is currently contributing or has contributed to the project in the previous year
-- _past contributors_:  
+- _past contributors_:
   Any contributors that has contributed to the project in the past but not in the last year
 
 ## Responsibilities
@@ -40,7 +41,7 @@ Each meeting will be announced in due time together with an agenda, which will i
 
 ## Voting Body
 
-The CC voting body includes all the Active Contributors including the Project Leaders, but it does not include _past contributors_
+The voting body (VB) includes all the Active Contributors including the Project Leaders, but it does not include _past contributors_.
 
 ## Decision making process
 

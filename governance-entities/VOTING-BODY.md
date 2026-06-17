@@ -10,12 +10,12 @@ AC = [Active Contributors](../governance-entities/CONTRIBUTORS-COMMUNITY.md)
 
 ## Definition
 
-The Voting Body is the group of people that are eligible to participate in the vote.  
-Unless stated otherwise, the VB is composed by the members of the Steering Committee (SC), the Project Leaders (PL) and the Active Contributors (AC) that are present during the official time allocated for the vote. The official time of the election should be publicly announced through the offical Project Channels (PC).  
-If the matter at hand requires changes to the VB, the changes requested should be:  
+The Voting Body is the group of people that are eligible to participate in the vote.
+Unless stated otherwise, the VB is composed by the members of the Steering Committee (SC), the Project Leaders (PL) and the Active Contributors (AC) that are present during the official time allocated for the vote. The official time of the election should be publicly announced through the official Project Channels (PC).
+If the matter at hand requires changes to the VB, the changes requested should be:
 
 - discussed in advanced with the Project Leaders (PL),
-- publicly announced on the offical Project Channels (PC) together with the vote announcment,
+- publicly announced on the official Project Channels (PC) together with the vote announcement,
 - well documented in the vote minutes
 
 ***

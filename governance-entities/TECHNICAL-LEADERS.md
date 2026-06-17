@@ -5,6 +5,7 @@
 TL = Technical Leader
 CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
 SS = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
+VB = [Voting Body](./VOTING-BODY.md)
 
 ## Description
 
@@ -20,7 +21,7 @@ TL's responsibilities are:
 - managing activities necessary to achieve of objectives within their tasked area.
 - work independently,
 - be able to find adequate resources
-- be confortable to ask for help if needed
+- be comfortable to ask for help if needed
 - be able to report clearly and effectively the status of their sub-project to any interested party and stakeholder.
 
 ## Eligibility
@@ -29,10 +30,10 @@ Any member of the Contributors Community (CC) can become a TL, given that he/she
 
 ## Nomination Process
 
-A TL prospect is nominated through a public announcement on the official channels. The nomination for a TL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section. A TL is official after a winning an official election held during a Collaboration meeting (please see [Voting](../procedures/VOTING.md)).
+A TL prospect is nominated through a public announcement on the official channels. The nomination for a TL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section. A TL is official after winning an election by the VB (see [Voting](../procedures/VOTING.md)).
 
-The name of the TL must posted on the Project website and inserted in the related role file with the title of TL.  
-For supported project, the project repository should contain a file named GOVERNANCE.md listing the name of the offical TL and, possibly, the official maintainers
+The name of the TL must be listed in the relevant file under `roles/` and the Project website and updated following election results.
+For supported project, the project repository should contain a file named GOVERNANCE.md listing the name of the official TL and, possibly, the official maintainers
 
 ## Posting Duration
 

@@ -11,6 +11,8 @@
 ../project-components/SCICAT-CORE.md
 ../project-components/SUPPORTED-PROJECTS.md
 ../project-components/PROJECT-CHANNELS.md
+../procedures/RATIFICATION.md
+../procedures/AMENDMENTS.md
 ../procedures/VOTING.md
 ../procedures/NOMINATION.md
 ../procedures/MEMBER_EARLY_DISMISSAL.md
