@@ -1,0 +1,1 @@
+Review the latest full scicat governance document in markdown format that you can find in util folder. Create a summary no more than 5000 words long with all the relevant information. Save the results in markdown format in a file named scicat_governance_summary followed by the timestamp formatted as YYYYmmddHHMMSS. save the files back in th eutil folder

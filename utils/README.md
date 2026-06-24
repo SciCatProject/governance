@@ -57,3 +57,11 @@ Where `YYYYmmddHHMMSS` is the current timestamp (e.g., 20260603143022).
 
 - `create_single_document.bash` - The main script
 - `manifest.txt` - List of markdown files to combine (in order), with paths relative to the repository root
+
+### Summary creation
+
+Leverage your agent and submit the summary prompt. The one provided in this folder has been tested on Mistral AI.
+After the summary markdown file has been created, run the following command:
+```bash
+pandoc scicat_governance_summary_<timestamp>.md -o scicat_governance_summary_<timestamp>.pdf --pdf-engine=xelatex --resource-path=../procedures -V geometry:"a4paper,portrait,margin=1.5cm" -V fontsize=6pt
+```
