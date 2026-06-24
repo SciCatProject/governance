@@ -24,6 +24,7 @@ __IMPORTANT__:
 | Philipp Neumann | --- | DESY | Preliminary |
 | Daphne van Dijken | --- | Dectris | Preliminary |
 | Marjam Lindberg | --- | MaxIV | Preliminary |
+| Majid Ounsy | --- | SOLEIL | Preliminary |
 | --- | --- | --- | --- |
 
 ***
