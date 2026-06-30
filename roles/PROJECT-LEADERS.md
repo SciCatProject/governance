@@ -6,8 +6,7 @@ This document lists nominated candidates for Project Leader (PL) positions. Entr
 | --- | --- | --- | --- | --- |
 | Project Leader | Massimiliano (Max) Novelli | nitrosx | ESS | 2026-01-01 |
 | Project Leader | Laura Shemilt | LAShemilt | RFI | 2026-01-01 |
-| Project Leader | | | | |
-| --- | --- | --- | --- | --- |
+| Project Leader | Spencer Bliven | sbliven | PSI | 2026-06-30 |
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
