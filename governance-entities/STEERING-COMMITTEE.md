@@ -11,49 +11,66 @@ FT = Full Time
 ## Description
 
 The Steering Committee includes representatives of supporting facilities.
-Members of the Steering Committee should not be Project Contributors, but should be part of the management team of the facilities or consortiuum they are part of.
+Members of the Steering Committee are usually not be Project Contributors, but should be part of the management team of contributing facilities.
 
 ## Responsibilities and Duties
 
 The SC is tasked with:
 
 - providing guidance and non-binding feedback to the Project Leaders (PL),
-- promoting the Project within their home facilties and science community
+- promoting the Project within their home facilities and science community
 - promoting the Project at large
 - help sustaining the project
 - discover possible funding sources
 - make sure that their facility allocates resources to sustain the project
-- monitor, confirm and support fair election of candidates for Project Leaders and Technical Leaders positions.  
+- monitor, confirm and support fair election of candidates for Project Leaders and Technical Leaders positions.
 
-## Meeting
+## Meetings
 
-The SC should meet at least once a year, possibly in person and at the annual meeting SciCatCon.
+The SC should meet at least once a year (for instance, at the annual SciCatCon meeting).
 The meeting will be scheduled and announced in due time through the Project official channels.
-Aside of the single annual meeting, additional meetings might be organized based on the Project needs. Additional meetings can happen on-line.
+Additional meetings might be organized based on the Project needs.
+The annual SC meeting is chaired by the host of SciCatCon for that year.
 
-## Eligibility
+## Facility Seats
 
-A person is eligible to become a member of the SC if and only if their home facility is able to allocate at least a half FT, or an equivalent effort, to sustain the Project.  
+The following rules govern which facilities hold seats on the SC.
+
+### Eligibility
+
+Each [_contributing facility_](FACILITIES.md) may hold one seat on the Steering Committee. The facility should confirm that their representative has authority for strategic decisions, such as allocating personnel for SciCat development.
+
+### Adding a Facility
+
+An eligible facility may apply for a seat by contacting the PLs. Admission requires approval by a majority of the existing SC members, following confirmation of the facility's eligibility.
+
+### Yearly Review
+
+During the annual meeting, each facility should state the effort it will allocate for the following year.
+
+### Losing Representation
+
+If a facility no longer meets the eligibility criteria, the SC may vote to remove its seat. Removal requires a majority vote of the remaining SC members. A facility that loses its seat relinquishes all associated voting rights.
+
+## Representatives
+
+The following rules govern the individuals appointed by each facility to fill its SC seat.
+
+### Appointment
+
+Each facility appoints one representative to fill its SC seat. The representative speaks and votes on behalf of the facility.
+
+### Resignation
+
+A representative may resign at any time by informing the SC, the PL, and the TL through the official project channels.
+
+### Replacement
+
+When a representative steps down, the facility may nominate a replacement, subject to approval by the SC. If no replacement is nominated or approved within a reasonable time, the facility relinquishes its seat.
 
 ## Representation
 
-Each supporting facility is granted a number of votes equivalent to the number of half FTs that is able to dedicate to the Project.
-The number of votes are distributed among the members representing the facility. The maximum number of facility members is equal to the number of half FTs allocated by the facility.
-
-## Posting Duration
-
-Memberships in the SC are not time bounded.  
-The list of the supporting facility and their effort will be updated once year. We will strive to generate the updated list at the in-person meeting, although it will not be guaranteed it. The new efforts will guide the adjustment to members of the SC.
-The participating facility has the responsibility to manage its membership to the SC and nominate a new member if a current one is stepping down. If no new member is nominated, the supporting facility will relinquish their representation and voting power.
-
-## Resignation
-
-A member of the Steering Committee can resign at any time.  
-A resigning member should inform the Project members (the SC, the PL and TL) with a written communication posted in the official project channels.
-
-## Effort evaluation
-
-During the yearly meeting, each contributing facility is required to state the effort allocated for the following year, so representation in the SC can be adjusted.
+Each member of the Steering Committee holds one vote, regardless of their facility's level of contribution.
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
