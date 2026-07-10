@@ -25,7 +25,7 @@ The PL's duties and responsibilities are:
 - promote the project,
 - maintain relationships with:
   - contributors community,
-  - adopting facilities and their management
+  - contributing organizations and their management
   - user community
 - provide project guidance
 - moderate in case of disputes or conflicts
@@ -46,7 +46,7 @@ PL do agree to put as much effort as required in performing the responsibilities
 Any member of the Contributors Community is eligible to be nominated to become a Project Leader, proven that:
 
 - they have a solid knowledge of the Project,
-- they are associated with a supporting facility.
+- they are associated with a contributing organization.
 
 They might be asked to sustain one or more interviews with any of the Project governing entities. The interviews will be decided by the current PL on per-nomination case, with the guidance of the SC.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.

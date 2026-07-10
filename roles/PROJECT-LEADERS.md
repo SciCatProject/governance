@@ -2,10 +2,10 @@
 
 This document lists nominated candidates for Project Leader (PL) positions. Entries reflect nominations under the [Nomination](../procedures/NOMINATION.md) procedure and are updated to record election results. By adding your name to this document, you are agreeing to abide by all Organization policies, including the organizational charter document, the code of conduct, and the antitrust policy.
 
-| **POSITION** | **NAME** | **GitHub Handle** | **Affiliated Organization** | **Mandate started** |
+| **POSITION** | **NAME** | **GitHub Handle** | **Organization** | **Date of Election** |
 | --- | --- | --- | --- | --- |
-| Project Leader | Massimiliano (Max) Novelli | nitrosx | ESS | 2026-01-01 |
-| Project Leader | Laura Shemilt | LAShemilt | RFI | 2026-01-01 |
+| Project Leader | Massimiliano (Max) Novelli | nitrosx | ESS | 2026-06-30 |
+| Project Leader | Laura Shemilt | LAShemilt | RFI | 2026-06-30 |
 | Project Leader | Spencer Bliven | sbliven | PSI | 2026-06-30 |
 
 ***

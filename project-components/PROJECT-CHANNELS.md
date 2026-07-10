@@ -7,7 +7,7 @@ Project = [SciCat Project](./SCICAT-PROJECT.md)
 
 ## Description
 
-Project channels PC are all the methods that the Project use to communicate with its collaborators, users and facilities.  
+Project channels PC are all the methods that the Project use to communicate with its collaborators, users and contributing organizations.  
 At the moment of this writing, official PC are:
 
 - [Official website](https://scicatproject.org)

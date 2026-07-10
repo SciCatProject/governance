@@ -26,7 +26,7 @@ Candidates for open positions as Project Leader or Technical Leader of core or s
   - direct email to one or more Project Leaders or Steering Committee members
   - a posting on the Official Project Channels.
 - each candidate should have the support from at least two other project members. One of them should be from a different institution.
-- the nomination can be initiate directly by the candidate or by one of the supporting members.
+- the nomination can be initiate directly by the candidate or by one of the contributing organizations.
 - the nomination becomes official when listed in the relevant file under `roles/`
 
 ## Important

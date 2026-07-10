@@ -11,17 +11,17 @@ It is based from [Bluesky governance](https://), which has been adapted from
 
 ## Why?
 
-Data cataloging, curation and sharing are becoming a critical step in many facilities data lifecycle.
+Data cataloging, curation and sharing are becoming a critical step in many organizations' data lifecycle.
 The SciCat project and its community aims to communicate clearly how the project is managed, how the priorities are set and effort is allocated. We would like to formalize and document the processes contributors and adopters can follow to become active members of the community and easily contribute to the project.
 This effort is also important to communicate the commitment of the community to the Project and render SciCat a viable and well thought option in the landscape of data catalogues.
 
 ## Purpose
 
-The governance documents aim to formalize the SciCat project (following referred as the Project) as an international, multi-facility, community-driven project.
+The governance documents aim to formalize the SciCat project (following referred as the Project) as an international, multi-organization, community-driven project.
 
 ## Adoption
 
-Project contributors, adopting facilities and commercial partners agree to adhere to the definition, procedure and responsabilities described in the content of these documents
+Project contributors, contributing organizations and commercial partners agree to adhere to the definition, procedure and responsibilities described in the content of these documents
 
 ## Governance Entities Mission
 
@@ -45,7 +45,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 - [Project Leaders](./governance-entities/PROJECT-LEADERS.md)
 - [Steering Committee](./governance-entities/STEERING-COMMITTEE.md)
 - [Advisory Boards](./governance-entities/ADVISORY-BOARDS.md)
-- [Facilities](./governance-entities/FACILITIES.md)
+- [Contributing Organizations](./governance-entities/CONTRIBUTING-ORGANIZATIONS.md)
 - [Voting Body](./governance-entities/VOTING-BODY.md)
 
 ### Project Components

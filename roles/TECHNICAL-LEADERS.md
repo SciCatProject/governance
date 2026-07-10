@@ -2,7 +2,7 @@
 
 This document lists nominated candidates for Technical Leader (TL) positions for Core efforts or Supported projects. Entries reflect nominations under the [Nomination](../procedures/NOMINATION.md) procedure and are updated to record election results. By adding your name to this document, you are agreeing to abide by all Organization policies, including the organizational charter document, the code of conduct, and the antitrust policy.
 
-| **EFFORT/PROJECT** | **NAME** | **GitHub Handle** | **Affiliated Organization** | **Mandate started** |
+| **EFFORT/PROJECT** | **NAME** | **GitHub Handle** | **Organization** | **Mandate started** |
 | --- | --- | --- | --- | --- |
 | Core effort or Supported Project | Name | Git Handle | Organization | Started |
 | BE | Junje Quan | Junjiequan | ESS | 2026-01-01 |
