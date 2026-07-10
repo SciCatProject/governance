@@ -1,5 +1,4 @@
 ../README.md
-../governance-entities/USERS-COMMUNITY.md
 ../governance-entities/CONTRIBUTORS-COMMUNITY.md
 ../governance-entities/TECHNICAL-LEADERS.md
 ../governance-entities/PROJECT-LEADERS.md

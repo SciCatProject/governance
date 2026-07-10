@@ -25,7 +25,7 @@ The Supported Project Request can be submitted via the official Project Channels
 
 ## Procedure
 
-The Project Leaders will make sure to present the case to the relevant stakeholders (Collaborators, Steering Committee, Users community) to the best suitable way given time and opportunities constraints. The project Leaders should schedule a vote, leaving enough time for an open discussion.
+The Project Leaders will make sure to present the case to the relevant stakeholders (Collaborators, Steering Committee, and the user community) to the best suitable way given time and opportunities constraints. The project Leaders should schedule a vote, leaving enough time for an open discussion.
 
 ## Results
 
