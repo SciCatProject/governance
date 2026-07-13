@@ -5,7 +5,7 @@
 SP = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
 PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)
 PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
-Project = [Scicat Project](../project-components/SCICAT-PROJECT.md)
+Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Eligibility
 

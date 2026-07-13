@@ -4,7 +4,7 @@ This document lists the Organization's active Advisory Boards or AB and their me
 
 ## Advisory Boards
 
-| **Id** | **Name** | **Start Date** | **Esitmated End Date** | **Description** | **Deliverables** |
+| **Id** | **Name** | **Start Date** | **Estimated End Date** | **Description** | **Deliverables** |
 | ------ | -------- | -------------- | ---------------------- | --------------- | ---------------- |
 | ...    | ...      | ...            | ...                    | ...             | ...              |
 
