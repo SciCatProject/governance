@@ -22,15 +22,11 @@ An official announcement should be made through the official PC, and it should i
 
 A discussion period should precede the time of the voting. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public and should be accessible through the official PC.
 
-## Decision Making
-
-When a voting is requested and scheduled, although the Project strive to reach a consensus, the outcome will always be decided by majority of the voting body.
-If a proper outcome cannot be reached at the time of the Voting, the PL have the authority to reschedule the voting or take upon themselves to selected the outcome based on their good faith consideration of a number of factors, including the dominant view of the all the stakeholders and nature of support and objections.
-If a decision cannot be reached at all, the PL will seek out the guidance of the SC.
-
 ## Vote
 
 In any voting, each member of the VB will have one vote, and all the votes are equal.
+
+Unless otherwise specified, votes will be decided by simple majority.
 
 ### Delegation
 

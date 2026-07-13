@@ -10,6 +10,8 @@ The current Project Leader (PL) members are:
 | Project Leader | Laura Shemilt              | LAShemilt         | RFI              | 2026-06-30           |
 | Project Leader | Spencer Bliven             | sbliven           | PSI              | 2026-06-30           |
 
+PLs were ratified by the SC on 2026-06-30.
+
 ## Nominations
 
 This section lists nominated candidates Project Leader (PL) positions. Entries reflect nominations under the [Nomination](../procedures/NOMINATION.md) procedure and are updated to record election results. By adding your name to this document, you are agreeing to abide by all Organization policies, including the organizational charter document, the code of conduct, and the antitrust policy.
