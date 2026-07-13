@@ -60,6 +60,13 @@ For each open position as a Project Leader, any member of the Contributors Commu
 No matter the number of candidates for each position, a vote by the Contributors Voting Body is required.
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
 
+## Ratification
+
+Following election, the SC should ratify the newly elected PL candidates by majority
+vote of the SC within two weeks. If the SC fail to ratify a candidate, a special
+election will be held. The special election should be held after at least four weeks to
+allow additional nominations, and within at most 2 months of the initial vote.
+
 ## Duration
 
 Project Leaders maintain their role for a three plus three years mandate. At the end of the first three years mandate, the outgoing PL can decide to renew their candidacies for the following three years and participate in the next round of elections.
