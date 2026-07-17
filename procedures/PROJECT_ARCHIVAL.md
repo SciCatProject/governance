@@ -2,14 +2,14 @@
 
 ## Abbreviations and Links
 
-SP = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)  
-CC = [Core Component](../project-components/SCICAT-CORE.md)  
-PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)  
-PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)  
+SP = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
+CC = [Core Component](../project-components/SCICAT-CORE.md)
+PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
+PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)
 
 ## Description
 
-Any Project active member, including Project Leaders and Sttering Committee members, are allowed to propose any project for archival if a valid reason is present.  
+Any Project active member, including Project Leaders and Steering Committee members, are allowed to propose any project for archival if a valid reason is present.
 
 ## Archival Reasons
 
