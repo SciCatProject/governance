@@ -14,20 +14,19 @@ __IMPORTANT__:
 - _Membership is still preliminary and will need to be confirmed_
 - _please comment or reach out to the Project Leaders with any feedback or comment_
 
-| __NAME__ | __GitHub Handle__ | __Supporting Organization__ | __Status__ | __Notes__ |
-| --- | --- | --- | --- |
-| Fredrik Bolmsten | --- | ESS | Confirmed | |
-| Alun Ashtun | --- | PSI | Confirmed | |
-| Paolo Mutti | --- | ILL | Confirmed | |
-| Mark Basham | --- | RFI | Confirmed | |
-| Philipp Neumann | --- | DESY | Confirmed | Main representative |
-| Paul Millar | --- | DESY | Confirmed | Debuty | |
-| Daphne van Dijken | --- | Dectris | Confirmed | |
-| Wiebke Lohstroh | --- | MLZ | Confirmed | |
-| Mirjam Lindberg | --- | MaxIV | Preliminary | Need clarification |
-| Bridget Murphy | --- | DAPHNE | Preliminary |  Need clarification |
-| Majid Ounsy | --- | SOLEIL | Preliminary | Need clarification |
-| --- | --- | --- | --- |
+  __NAME__ | __GitHub Handle__ | __Supporting Organization__ | __Status__ | __Notes__ |
+ |----------|-------------------|------------------------------|------------|-----------|
+ | Fredrik Bolmsten | --- | ESS | Confirmed | |
+ | Alun Ashtun | --- | PSI | Confirmed | |
+ | Paolo Mutti | --- | ILL | Confirmed | |
+ | Mark Basham | --- | RFI | Confirmed | |
+ | Philipp Neumann | --- | DESY | Confirmed | Main representative |
+ | Paul Millar | --- | DESY | Confirmed | Deputy |
+ | Daphne van Dijken | --- | Dectris | Confirmed | |
+ | Wiebke Lohstroh | --- | MLZ | Confirmed | |
+ | Mirjam Lindberg | --- | MaxIV | Preliminary | Need clarification |
+ | Bridget Murphy | --- | DAPHNE | Preliminary | Need clarification |
+ | Majid Ounsy | --- | SOLEIL | Preliminary | Need clarification |
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
