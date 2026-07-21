@@ -17,13 +17,14 @@ Members of the Steering Committee are usually not Project Contributors, but shou
 
 The SC is tasked with:
 
-- providing guidance and non-binding feedback to the Project Leaders (PL),
+- providing guidance and feedback to the Project Leaders (PL),
 - promoting the Project within their home organization and science community
 - promoting the Project at large
 - help sustaining the project
 - discover possible funding sources
 - make sure that their organization allocates resources to sustain the project
 - monitor, confirm and support fair election of candidates for Project Leaders and Technical Leaders positions.
+- ratifying PL elections and major decisions
 
 ## Meetings
 
