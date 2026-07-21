@@ -14,7 +14,7 @@ __IMPORTANT__:
 - _Membership is still preliminary and will need to be confirmed_
 - _please comment or reach out to the Project Leaders with any feedback or comment_
 
-  __NAME__ | __GitHub Handle__ | __Supporting Organization__ | __Status__ | __Notes__ |
+ | __NAME__ | __GitHub Handle__ | __Supporting Organization__ | __Status__ | __Notes__ |
  |----------|-------------------|------------------------------|------------|-----------|
  | Fredrik Bolmsten | --- | ESS | Confirmed | |
  | Alun Ashtun | --- | PSI | Confirmed | |
