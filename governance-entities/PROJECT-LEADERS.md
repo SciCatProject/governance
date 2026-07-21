@@ -51,13 +51,13 @@ Any member of the Contributors Community is eligible to be nominated to become a
 They might be asked to sustain one or more interviews with any of the Project governing entities. The interviews will be decided by the current PL on per-nomination case, with the guidance of the SC.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
-## NOMINATION
+## Nomination
 
 For each open position as a Project Leader, any member of the Contributors Community who is eligible can be nominated as candidate according to the rules and conditions explained under the [Nomination](../procedures/NOMINATION.md) section.
 
 ## Election
 
-No matter the number of candidates for each position, a vote by the Contributors Voting Body is required.
+No matter the number of candidates for each position, a vote by the Voting Body is required.
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
 
 ## Ratification

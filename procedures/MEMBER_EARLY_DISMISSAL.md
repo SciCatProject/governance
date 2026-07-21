@@ -2,7 +2,7 @@
 
 ## Abbreviations and Links
 
-AC = [Active Collaborators](../governance-entities/CONTRIBUTORS-COMMUNITY.md)
+AC = [Active Contributors](../governance-entities/CONTRIBUTORS-COMMUNITY.md)
 PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
 SC = [Steering Committee](../governance-entities/STEERING-COMMITTEE.md)
 Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)

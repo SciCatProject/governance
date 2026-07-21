@@ -6,7 +6,6 @@ SC = Steering Committee
 PL = [Project Leaders](./PROJECT-LEADERS.md)
 TL = [Technical Leaders](./TECHNICAL-LEADERS.md)
 PC = [official Project Channels](../project-components/PROJECT-CHANNELS.md)
-FT = Full Time
 
 ## Description
 
@@ -23,7 +22,7 @@ The SC is tasked with:
 - help sustaining the project
 - discover possible funding sources
 - make sure that their organization allocates resources to sustain the project
-- monitor, confirm and support fair election of candidates for Project Leaders and Technical Leaders positions.
+- monitor, confirm and support fair election of candidates for Project Leader positions.
 - ratifying PL elections and major decisions
 
 ## Meetings

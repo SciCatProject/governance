@@ -10,7 +10,7 @@ The governance model was inspired by the [Bluesky governance](https://) and the
 ## Why?
 
 Data cataloging, curation and sharing are becoming a critical step in many organizations' data lifecycle.
-The SciCat project and its community aims to communicate clearly how the project is managed, how the priorities are set and effort is allocated. We would like to formalize and document the processes contributors and adopters can follow to become active members of the community and easily contribute to the project.
+The SciCat project and its community aims to communicate clearly how the project is managed, how the priorities are set and effort is allocated. We would like to formalize and document the processes contributors and organizations can follow to become active members of the community and easily contribute to the project.
 This effort is also important to communicate the commitment of the community to the Project and render SciCat a viable and well thought option in the landscape of data catalogues.
 
 ## Purpose
@@ -41,7 +41,7 @@ The Governance Entities of the Project are set in place to promote a positive de
 - [Technical Leaders](./governance-entities/TECHNICAL-LEADERS.md)
 - [Project Leaders](./governance-entities/PROJECT-LEADERS.md)
 - [Steering Committee](./governance-entities/STEERING-COMMITTEE.md)
-- [Advisory Boards](./governance-entities/ADVISORY-BOARDS.md)
+- [Advisory Groups](./governance-entities/ADVISORY-GROUPS.md)
 - [Contributing Organizations](./governance-entities/CONTRIBUTING-ORGANIZATIONS.md)
 - [Voting Body](./governance-entities/VOTING-BODY.md)
 
@@ -58,11 +58,11 @@ The Governance Entities of the Project are set in place to promote a positive de
 - [Amendment](./procedures/AMENDMENTS.md)
 - [Voting](./procedures/VOTING.md)
 - [Nomination](./procedures/NOMINATION.md)
-- [Member Early Dismissal](./procedures/MEMBER_DISMISSAL.md)
+- [Member Early Dismissal](./procedures/MEMBER_EARLY_DISMISSAL.md)
 - [Supported Project Request](./procedures/SUPPORTED_PROJECT_REQUEST.md)
 - [Project Archival](./procedures/PROJECT_ARCHIVAL.md)
 - [Project Decision](./procedures/PROJECT_DECISION.md)
-- [Contributing](./procedure/CONTRIBUtING.md)
+- [Contributing](./procedures/CONTRIBUTING.md)
 
 ### Roles
 

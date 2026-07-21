@@ -6,7 +6,7 @@ PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)
 VB = [Voting Body](../governance-entities/VOTING-BODY.md)
 PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
 SC = [Steering committee](../governance-entities/STEERING-COMMITTEE.md)
-Project = [SciCat Project](../project-components/SUPPORTED-PROJECTS.md)
+Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Announcement
 
