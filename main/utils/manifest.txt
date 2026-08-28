@@ -1,11 +1,10 @@
 ../README.md
-../governance-entities/USERS-COMMUNITY.md
 ../governance-entities/CONTRIBUTORS-COMMUNITY.md
 ../governance-entities/TECHNICAL-LEADERS.md
 ../governance-entities/PROJECT-LEADERS.md
 ../governance-entities/STEERING-COMMITTEE.md
 ../governance-entities/ADVISORY-GROUPS.md
-../governance-entities/FACILITIES.md
+../governance-entities/CONTRIBUTING-ORGANIZATIONS.md
 ../governance-entities/VOTING-BODY.md
 ../project-components/SCICAT-PROJECT.md
 ../project-components/SCICAT-CORE.md

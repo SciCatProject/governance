@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Use provided suffix or generate timestamp
 SUFFIX="${1:-$(date +%Y%m%d%H%M%S)}"
@@ -44,7 +45,7 @@ pandoc \
   -V fontsize=6pt
 
 # fix links in combined markdown
-sed -Ei 's|\((\./)?[^)]*/([A-Z-]+)\.md\)|(#\L\2)|g' "scicat_governance_full_${SUFFIX}.md"
+sed -E -i'' 's|\((\./)?[^)]*/([A-Z-]+)\.md\)|(#\L\2)|g' "scicat_governance_full_${SUFFIX}.md"
 
 # remove temporary files
 rm -f cover.md combined.md
