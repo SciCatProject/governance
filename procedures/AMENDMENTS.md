@@ -44,7 +44,7 @@ Any Active Contributor may propose an amendment by pull request to this reposito
 
 An amendment requires approval by a two-thirds supermajority of the SC.
 
-At least two-thirds (2/3) of SC members must participate (in person or remotely). If
+At least a majority (>= 50%)  of SC members must participate (in person or remotely). If
 quorum is not met, the vote does not take effect and may be rescheduled.
 
 ### Venue and Timing
