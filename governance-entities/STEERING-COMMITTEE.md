@@ -30,7 +30,7 @@ The SC is tasked with:
 The SC should meet at least once a year (for instance, at the annual SciCatCon meeting).
 The meeting will be scheduled and announced in due time through the Project official channels.
 Additional meetings might be organized based on the Project needs.
-The annual SC meeting is chaired by the host of SciCatCon for that year.
+The annual SC meeting is chaired by a member of the host of SciCatCon for that year.
 
 ## Committee Seats
 
