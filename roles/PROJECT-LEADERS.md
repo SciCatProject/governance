@@ -7,7 +7,7 @@ The current Project Leader (PL) members are:
 | **POSITION**   | **NAME**                   | **GitHub Handle** | **Organization** | **Date of Election** |
 | -------------- | -------------------------- | ----------------- | ---------------- | -------------------- |
 | Project Leader | Massimiliano (Max) Novelli | nitrosx           | ESS              | 2026-06-30           |
-| Project Leader | Laura Shemilt              | LAShemilt         | RFI              | 2026-06-30           |
+| Project Leader | Laura Shemilt              | LAShemilt         | BioFAIR (Earlham Institute)            | 2026-06-30           |
 | Project Leader | Spencer Bliven             | sbliven           | PSI              | 2026-06-30           |
 
 PLs were ratified by the SC on 2026-06-30.
