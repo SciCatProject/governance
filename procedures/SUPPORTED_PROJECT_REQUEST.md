@@ -2,10 +2,10 @@
 
 ## Abbreviations and Links
 
-SP = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)  
-PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)  
-PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)  
-Project = [Scicat Project](../project-components/SCICAT-PROJECT.md)  
+SP = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
+PC = [Project Channels](../project-components/PROJECT-CHANNELS.md)
+PL = [Project Leaders](../governance-entities/PROJECT-LEADERS.md)
+Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Eligibility
 
@@ -20,12 +20,12 @@ The Supported Project Request can be submitted via the official Project Channels
 - documentation highlighting how to install, configure and run the application, if project provides an application
 - a compelling reason for acquiring the status of the Supported Project
 - a project technical leader
-- a group of supporting members, if possible
+- a group of supporting contributing organizations
 - current license the code is released under
 
 ## Procedure
 
-The Project Leaders will make sure to present the case to the relevant stakeholders (Collaborators, Steering Committee, Users community) to the best suitable way given time and opportunities constraints. The project Leaders should schedule a vote, leaving enough time for an open discussion.
+The Project Leaders will make sure to present the case to the relevant stakeholders (Collaborators, Steering Committee, and the user community) to the best suitable way given time and opportunities constraints. The project Leaders should schedule a vote, leaving enough time for an open discussion.
 
 ## Results
 

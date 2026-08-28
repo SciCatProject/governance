@@ -5,6 +5,7 @@
 PL = Project Leader(s)
 SC = [Steering Committee](./STEERING-COMMITTEE.md)
 CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
+VB = [Voting Body](./VOTING-BODY.md)
 Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Description
@@ -25,7 +26,7 @@ The PL's duties and responsibilities are:
 - promote the project,
 - maintain relationships with:
   - contributors community,
-  - adopting facilities and their management
+  - contributing organizations and their management
   - user community
 - provide project guidance
 - moderate in case of disputes or conflicts
@@ -46,19 +47,26 @@ PL do agree to put as much effort as required in performing the responsibilities
 Any member of the Contributors Community is eligible to be nominated to become a Project Leader, proven that:
 
 - they have a solid knowledge of the Project,
-- they are associated with a supporting facility.
+- they are associated with a contributing organization.
 
 They might be asked to sustain one or more interviews with any of the Project governing entities. The interviews will be decided by the current PL on per-nomination case, with the guidance of the SC.
 The nomination for a PL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section.
 
-## NOMINATION
+## Nomination
 
 For each open position as a Project Leader, any member of the Contributors Community who is eligible can be nominated as candidate according to the rules and conditions explained under the [Nomination](../procedures/NOMINATION.md) section.
 
 ## Election
 
-No matter the number of candidates for each position, a vote by the Contributors Voting Body is required.
+No matter the number of candidates for each position, a vote by the Voting Body is required.
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
+
+## Ratification
+
+Following election, the SC should ratify the newly elected PL candidates by majority
+vote of the SC within two weeks. If the SC fail to ratify a candidate, a special
+election will be held. The special election should be held after at least four weeks to
+allow additional nominations, and within at most 2 months of the initial vote.
 
 ## Duration
 

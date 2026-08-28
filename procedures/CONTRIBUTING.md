@@ -6,17 +6,17 @@ Core = [SciCat Core](../project-components/SCICAT-CORE.md)
 
 ## Description
 
-Core repositories follows the procedure indicated below for contributions.
+Core repositories follow the procedure indicated below for contributions.
 
-Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository.  
+Other SciCat repositories (Supported Projects and Non-Code repositories) are highly encouraged to follow the same procedure. If they decide otherwise, they should clearly state the contribution procedure in the CONTRIBUTING.md files included in the root folder of the repository.
 Each repository should also indicate who are the maintainers of the repository and list them, together with their responsibility, in the MAINTAINERS.md file.
 
 ## Merge Permissions
 
-Each repository should have a merging group indicating who has merge permissions.  
-The SciCat project leaders and the project leaders are automatically part of the project merge group.  
-Other contributors can be part of the merge group. A contributor shall submit a dedicated request in order to be added to such group.  
-Membership to the merge group is managed by the project leaders.  
+Each repository should have a merging group indicating who has merge permissions.
+The SciCat project leaders and the project leaders are automatically part of the project merge group.
+Other contributors can be part of the merge group. A contributor shall submit a dedicated request in order to be added to such group.
+Membership to the merge group is managed by the project leaders.
 
 The SciCat core repositories are managed as a single project. They have a single maintainers group and a single merge group.
 
@@ -25,15 +25,15 @@ The SciCat core repositories are managed as a single project. They have a single
 In this paragraph we address the use of AI in developing code for the Project.
 The following rules must be followed if AI is used in any PR contributed to the Project:
 
-- We do not support automating raising of pull requests by Agentic AI.  
+- We do not support automating raising of pull requests by Agentic AI.
   All PRs must be submitted by a human or a trusted tool bot e.g. dependabot.
 - The human submitter must review all AI-generated code
 - Compliance with licensing requirements must be ensured
 - The PR can be accepted only if at least one human reviewer has reviewed it and signed it off
 - Human submitter and reviewers will take full responsibility for the contribution
 - PR can be merged only by a person belonging to the Merge group
-- The PR should contain attribution on which AI service and agent has been used.  
-  The attribution should be in the following format:  
+- The PR should contain attribution on which AI service and agent has been used.
+  The attribution should be in the following format:
   Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]
 
 

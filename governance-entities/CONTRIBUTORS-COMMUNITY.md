@@ -41,7 +41,7 @@ Each meeting will be announced in due time together with an agenda, which will i
 
 ## Voting Body
 
-The voting body (VB) includes all the Active Contributors including the Project Leaders, but it does not include _past contributors_.
+The voting body (VB) includes all Active Contributors, the Project Leaders, and members of the Steering Committee (SC), but does not include _past contributors_.
 
 ## Decision making process
 

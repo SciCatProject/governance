@@ -17,10 +17,11 @@ This document defines how the SciCat governance documents are amended after init
 Amendments apply to the following documents:
 
 - `governance-entities/`
-- `roles/`
 - `procedures/`
 
-Documents under `other/`, `project-components` and `utils/` are not subject to this procedure. They may be updated with approval by the Project Leaders (PL).
+Documents under `other/`, `project-components` and `utils/` are not subject to this procedure.
+They may be updated with approval by the Project Leaders (PL).
+Documents in `roles/` will be updated with the current membership following elections and appointments.
 
 ## Document Versions
 
@@ -41,17 +42,10 @@ Any Active Contributor may propose an amendment by pull request to this reposito
 
 ### Approval
 
-An amendment requires approval from both voting bodies:
+An amendment requires approval by a two-thirds supermajority of the SC.
 
-1. **SC** — at least two-thirds (2/3) of votes cast
-2. **AC** — at least two-thirds (2/3) of votes cast
-
-### Quorum
-
-The same quorum requirements as [Ratification](./RATIFICATION.md#quorum) apply:
-
-- **SC:** at least 2/3 of SC members must participate
-- **AC:** at least 15 Active Contributors must participate
+At least a majority (>= 50%)  of SC members must participate (in person or remotely). If
+quorum is not met, the vote does not take effect and may be rescheduled.
 
 ### Venue and Timing
 

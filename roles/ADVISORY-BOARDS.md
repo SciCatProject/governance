@@ -4,15 +4,15 @@ This document lists the Organization's active Advisory Boards or AB and their me
 
 ## Advisory Boards
 
-| **Id** | **Name** | **Start Date** | **Esitmated End Date** | **Description** | **Deliverables** |
-| --- | --- | --- | --- | --- | --- |
-| ... | ... | ... | ... | ... | ... |
+| **Id** | **Name** | **Start Date** | **Estimated End Date** | **Description** | **Deliverables** |
+| ------ | -------- | -------------- | ---------------------- | --------------- | ---------------- |
+| ...    | ...      | ...            | ...                    | ...             | ...              |
 
 ## Members
 
 | **Board Id** | **NAME** | **Email** | **GitHub Username** | **Affiliated Organization** |
-| --- | --- | --- | --- | --- |
-| ... | ... | ... | ... | ... |
+| ------------ | -------- | --------- | ------------------- | --------------------------- |
+| ...          | ...      | ...       | ...                 | ...                         |
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.

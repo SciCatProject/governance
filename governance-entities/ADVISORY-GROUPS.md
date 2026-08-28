@@ -28,10 +28,10 @@ AG can be formed by the Project Leaders (PL) or Technical Leaders (TL) upon offi
 
 ## Membership
 
-Any domain expert that is not directly involved with the specific effort or the Project is eligible to become a mebmber of an AG. Members can be proposed by proponents of the AG or by any of the stakeholders. Members should and need to be vetted by the Tehcnical Leaders (TL), Project Leaders (PL) or the Steering Committee (SC) depending who is the proponent of the AG, following the use cases highlighted below:
+Any domain expert that is not directly involved with the specific effort or the Project is eligible to become a member of an AG. Members can be proposed by proponents of the AG or by any of the stakeholders. Members should and need to be vetted by the Technical Leaders (TL), Project Leaders (PL) or the Steering Committee (SC) depending who is the proponent of the AG, following the use cases highlighted below:
 
 - if the AG is proposed to deliver on a specific supported project and it is not proposed by the supported project Technical Leaders, approval from the Technical Leaders of the supported project is required.
-if the AG is proposed to deliver on a specific supported project and it is proposed by the supported project Technical Leadership, approval from the Project Leaders is required.
+- if the AG is proposed to deliver on a specific supported project and it is proposed by the supported project Technical Leadership, approval from the Project Leaders is required.
 - if the AG is proposed to deliver on the Core and it is not proposed by the Project Leaders, approval from the Project Leaders is required.
 - if the AG is proposed to deliver on the Core and it is proposed by the Project Leaders, approval from the Steering Committee is required.
 

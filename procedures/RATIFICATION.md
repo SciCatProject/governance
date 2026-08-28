@@ -31,25 +31,15 @@ The ratification vote will be applied to the `main` branch of this repository. A
 
 ### Voting Bodies
 
-Ratification requires approval from two separate voting bodies:
+Ratification requires approval by a two-thirds supermajority of the SC.
 
-1. **Steering Committee (SC)** — unanimous approval
-2. **Active Contributors (AC)** — approval by at least two-thirds (2/3) of votes cast
-
-Only Active Contributors may vote in the AC ratification. Past contributors who are not Active Contributors are not eligible.
-
-### Quorum
-
-- **SC:** at least two-thirds (2/3) of SC members must participate (in person or remotely).
-- **AC:** at least fifteen (15) Active Contributors must participate (in person or remotely).
-
-If quorum is not met, the vote does not take effect and may be rescheduled.
+At least two-thirds (2/3) of SC members must participate (in person or remotely). If
+quorum is not met, the vote does not take effect and may be rescheduled.
 
 ### Venue and Timing
 
-The ratification vote will be held at the 2026 SciCatCon meeting.
-
-Remote participation is permitted and counts toward quorum and vote totals.
+A draft of the governance documents was presented to the SC at the 2026 SciCatCon
+meeting for discussion. The final version will be ratified by remote vote of the SC.
 
 ### Administration
 
@@ -61,7 +51,9 @@ Upon successful ratification, the approved branch will be tagged as `v1.0.0` and
 
 ## Initial Elections
 
-Elections for Project Leader (PL) and Technical Leader (TL) positions will be held following approval of the governance documents. Nominations follow the [Nomination](./NOMINATION.md) procedure. Elections follow the [Voting](./VOTING.md) procedure, except where this document or the pre-ratification administration provisions apply.
+Elections for Project Leader (PL) positions will be held at SciCatCon 2026.
+Nominations follow the [Nomination](./NOMINATION.md) procedure.
+Elections follow the [Voting](./VOTING.md) procedure, except where this document or the pre-ratification administration provisions apply.
 
 ## Relationship to Other Procedures
 
@@ -73,7 +65,7 @@ Elections for Project Leader (PL) and Technical Leader (TL) positions will be he
 
 Ratification results must be recorded and made publicly accessible through the official PC, including:
 
-- the commit under vote
+- the git commit under vote
 - quorum attainment for each voting body
 - vote totals
 - the effective date or release tag

@@ -3,9 +3,9 @@
 ## Abbreviation
 
 TL = Technical Leader
+PL = [Project Leaders](./PROJECT-LEADERS.md)
 CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
 SS = [Supported Project](../project-components/SUPPORTED-PROJECTS.md)
-VB = [Voting Body](./VOTING-BODY.md)
 
 ## Description
 
@@ -28,12 +28,11 @@ TL's responsibilities are:
 
 Any member of the Contributors Community (CC) can become a TL, given that he/she proves the required skills.
 
-## Nomination Process
+## Appointment
 
-A TL prospect is nominated through a public announcement on the official channels. The nomination for a TL position should follow the process described in the [Nomination](../procedures/NOMINATION.md) section. A TL is official after winning an election by the VB (see [Voting](../procedures/VOTING.md)).
+A TL is appointed by the Project Leaders (PL) following a public announcement of the open position on the official channels. The appointment becomes official once the PL confirm the candidate and the name is listed in the relevant file under `roles/` and on the Project website.
 
-The name of the TL must be listed in the relevant file under `roles/` and the Project website and updated following election results.
-For supported project, the project repository should contain a file named GOVERNANCE.md listing the name of the official TL and, possibly, the official maintainers
+For supported projects, the project repository should contain a file named GOVERNANCE.md listing the name of the official TL and, where applicable, the official maintainers.
 
 ## Posting Duration
 
@@ -49,7 +48,7 @@ A TL might be asked to leave his/hers leadership position following conflicts or
 
 ## Effort
 
-It should be clear that been a TL entails more responsibilities, requires more commitment and a higher level of effort.
+It should be clear that being a TL entails more responsibilities, requires more commitment and a higher level of effort.
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
