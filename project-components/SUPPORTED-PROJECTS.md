@@ -21,7 +21,7 @@ They also have to follow the [code of conduct](../other/CODE-OF-CONDUCT.md) incl
 
 Each SP is granted its own repository under the SciCat project umbrella and supported by the Project community.
 SP are encouraged to manage their leadership on their own, although following the rules described under the TL section. They might request direct involvement of and seek advice from the PL and the SC.
-SP may be orphaned, meaning they do have no project leadership and/or contributors. In such case, it is responsibility of the PL and the SC to step in, temporarily lead the project and advocate for new leadership and/or contributors. They can also decide to end the SP and archive the repository.
+SP may be orphaned, meaning they do have no project leadership and/or contributors. In such case, it is the responsibility of the PL and the SC to step in, temporarily lead the project and advocate for new leadership and/or contributors. They can also decide to end the SP and archive the repository.
 
 ## Process
 
