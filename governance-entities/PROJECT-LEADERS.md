@@ -5,6 +5,7 @@
 PL = Project Leader(s)
 SC = [Steering Committee](./STEERING-COMMITTEE.md)
 CC = [Contributors Community](./CONTRIBUTORS-COMMUNITY.md)
+VB = [Voting Body](./VOTING-BODY.md)
 Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Description

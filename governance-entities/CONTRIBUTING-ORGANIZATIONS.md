@@ -6,7 +6,7 @@ CO = Contributing Organization
 
 ## Definition
 
-A _contributing organization_ is any facility, institute, or organization that commits to significant ongoing contribution to the Project. A significant contribution is defined as at least 50% of an full time position (0.5 FTE) per year.
+A _contributing organization_ is any facility, institute, or organization that commits to significant ongoing contribution to the Project. A significant contribution is defined as at least 50% of a full time position (0.5 FTE) per year.
 
 ## Responsibilities
 
