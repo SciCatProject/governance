@@ -54,11 +54,11 @@ The nomination for a PL position should follow the process described in the [Nom
 
 ## Nomination
 
-For each open position as a Project Leader, any member of the Contributors Community who is eligible can be nominated as candidate according to the rules and conditions explained under the [Nomination](../procedures/NOMINATION.md) section.
+For each open position as a Project Leader, any member of the Contributors Community who is eligible can be nominated as candidate according to the rules and conditions explained under the [Nomination](../procedures/NOMINATION.md) section, **unless** the position is being filled via a direct replacement under the [Direct Replacement](../procedures/DIRECT_REPLACEMENT.md) procedure.
 
 ## Election
 
-No matter the number of candidates for each position, a vote by the Voting Body is required.
+No matter the number of candidates for each position, a vote by the Voting Body is required, **unless** the position is being filled via a facility-proposed direct replacement under the conditions outlined in the [Direct Replacement](../procedures/DIRECT_REPLACEMENT.md) procedure.
 The voting procedure will follow the procedure described in the [Voting](../procedures/VOTING.md) section.
 
 ## Ratification
