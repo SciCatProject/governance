@@ -10,7 +10,7 @@ Project = [SciCat Project](../project-components/SCICAT-PROJECT.md)
 
 ## Purpose
 
-This document defines an expedited process for replacing a Project Leader who steps down voluntarily, allowing their supporting Contributing Organization to propose a direct replacement. This mechanism ensures continuity while maintaining governance oversight.
+This document defines an expedited process for replacing a Project Leader who steps down voluntarily, allowing their supporting Contributing Organization to propose a direct replacement. The replacement assumes the role as **acting Project Leader immediately** upon proposal, with Steering Committee confirmation following at the next meeting or via email. This mechanism ensures continuity while maintaining governance oversight.
 
 ## Conditions
 
@@ -22,7 +22,8 @@ A direct replacement may be appointed **only** when **all** of the following con
   - Is a member of the Contributors Community
   - Has solid knowledge of the Project
   - Is associated with a Contributing Organization
-- The Steering Committee approves the direct replacement by majority vote
+- The replacement assumes the role as **acting Project Leader immediately** upon proposal
+- The Steering Committee confirms the appointment by majority vote
 
 ## Duration Limitation
 
@@ -30,33 +31,32 @@ A direct replacement may be appointed **only** when **all** of the following con
 
 ## Process
 
-1. **Proposal Submission**
+1. **Proposal Submission and Immediate Acting Role**
    - The Contributing Organization submits a written proposal to the Steering Committee and the remaining Project Leaders
    - The proposal must include:
      - Confirmation that the outgoing Project Leader is resigning voluntarily
      - The candidate's name and qualifications
      - Confirmation that the candidate meets all eligibility criteria
      - Confirmation that the candidate is associated with the same Contributing Organization
+   - **Upon submission, the proposed replacement immediately assumes the role as acting Project Leader**
 
-2. **Review Period**
-   - The Steering Committee has **14 days** to review the proposal
-   - The Steering Committee may request additional information or conduct interviews with the candidate
-
-3. **Steering Committee Vote**
-   - The Steering Committee votes on the proposal
+2. **Steering Committee Review and Confirmation**
+   - The Steering Committee reviews the proposal and may request additional information or conduct interviews with the candidate
+   - The Steering Committee votes on the proposal **at the next SC meeting or via email immediately**
    - Approval requires a **simple majority** of voting SC members
    - The vote can be conducted remotely via official Project Channels
 
-4. **Announcement**
-   - If approved, the new Project Leader appointment is announced through official Project Channels
+3. **Announcement**
+   - Once confirmed by the Steering Committee, the Project Leader appointment is announced through official Project Channels
    - The announcement must include:
      - The name of the new Project Leader
      - The duration of their appointment (remainder of original term)
      - Confirmation that this is a direct replacement under this procedure
+     - Note that the replacement served as acting Project Leader from the date of proposal submission
 
-5. **Documentation**
+4. **Documentation**
    - The appointment is recorded in the relevant role files
-   - The proposal and approval are documented in the Project's official records
+   - The proposal, acting period start date, and approval are documented in the Project's official records
 
 ## Relationship to Other Procedures
 
