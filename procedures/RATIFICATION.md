@@ -39,7 +39,7 @@ quorum is not met, the vote does not take effect and may be rescheduled.
 ### Venue and Timing
 
 A draft of the governance documents was presented to the SC at the 2026 SciCatCon
-meeting for discussion. The final version will be ratified by remote vote of the SC.
+meeting for discussion. The requested updates were ratified by the SC at NoBUGS 2026.
 
 ### Administration
 
@@ -51,7 +51,7 @@ Upon successful ratification, the approved branch will be tagged as `v1.0.0` and
 
 ## Initial Elections
 
-Elections for Project Leader (PL) positions will be held at SciCatCon 2026.
+Elections for Project Leader (PL) positions were held at SciCatCon 2026.
 Nominations follow the [Nomination](./NOMINATION.md) procedure.
 Elections follow the [Voting](./VOTING.md) procedure, except where this document or the pre-ratification administration provisions apply.
 
