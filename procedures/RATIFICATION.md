@@ -39,7 +39,7 @@ quorum is not met, the vote does not take effect and may be rescheduled.
 ### Venue and Timing
 
 A draft of the governance documents was presented to the SC at the 2026 SciCatCon
-meeting for discussion. The first draft was ratified at SciCatCon 2026, while the requested updates were ratified at NoBUGS 2026.
+meeting for discussion. The requested updates were ratified by the SC at NoBUGS 2026.
 
 ### Administration
 
