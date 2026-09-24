@@ -76,6 +76,8 @@ Project Leaders maintain their role for a three plus three years mandate. At the
 
 At any time, an elected PL can resign from his/her position by submitting a written resignation to the other PLs and communicating his/hers decision through the official Project channels.
 
+In the case of a resignation, a replacement candidate may be proposed by the organization of the departing PL. The direct replacement must be ratified by the SC as described above. If approved, the new candidate serves out the remainder of the original candidate's term.
+
 ## Early dismissal
 
 At any time, a PL can be asked to resign from the PL role following conflicts or leadership related issues. This event must follow the process described in the [Member Dismissal](../procedures/MEMBER_DISMISSAL.md) section.
