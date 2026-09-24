@@ -10,7 +10,7 @@ vote = [Voting](../procedures/VOTING.md)
 
 ## Description
 
-Any Project Active Contributor meeting the eligibility criteria can be nominated as candidate to fill the open position.
+Any Project Active Contributor meeting the eligibility criteria can be nominated as candidate to fill the open position, **except** when a direct replacement is being appointed under the [Direct Replacement](./DIRECT_REPLACEMENT.md) procedure.
 He or she may be asked to sustain one or more interviews with or make a presentations to any of the Project governance entities. The course of action will be decided by the current Project Leaders together with the Steering Committee on per-nomination and per-position case.
 The eligibility criteria are described in the governance document of the related entity.
 
