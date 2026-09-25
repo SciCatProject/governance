@@ -24,9 +24,9 @@ affiliation with another organization (designated below), you represent that you
  | Paul Millar       | ---           | DESY         | Confirmed   | Deputy              |
  | Daphne van Dijken | ---           | Dectris      | Confirmed   |                     |
  | Wiebke Lohstroh   | ---           | MLZ          | Confirmed   |                     |
- | Mirjam Lindberg   | ---           | MaxIV        | Preliminary | Need clarification  |
- | Bridget Murphy    | ---           | DAPHNE       | Preliminary | Need clarification  |
- | Majid Ounsy       | ---           | SOLEIL       | Preliminary | Need clarification  |
+ | Mirjam Lindberg   | ---           | MaxIV        | Confirmed   |                     |
+ | Bridget Murphy    | ---           | DAPHNE       | Confirmed   |                     |
+ | Majid Ounsy       | ---           | SOLEIL       | Confirmed   |                     |
 
 ***
 Licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License.
